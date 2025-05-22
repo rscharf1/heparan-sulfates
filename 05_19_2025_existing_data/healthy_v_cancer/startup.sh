@@ -11,9 +11,10 @@ if [ $? -ne 0 ]; then
 fi
 
 # Load required modules
+# module load R/4.3.0
 module load R/4.4.2
 module load sra-tools
-module load git
+module load gcc
 
 
 module list

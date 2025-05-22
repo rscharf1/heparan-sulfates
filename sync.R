@@ -4,7 +4,6 @@ library(dplyr)
 
 token <- Sys.getenv("GITHUB_PAT")
 
-# auth <- sprintf("https://%s@github.com/cartographybio/binder_portal.git", token)
 auth <- sprintf("https://%s@github.com/rscharf1/heparan-sulfates.git", token)
 
 #List R Scripts

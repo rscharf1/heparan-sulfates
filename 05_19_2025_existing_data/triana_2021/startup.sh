@@ -13,7 +13,6 @@ fi
 # Load required modules
 module load R/4.4.2
 module load sra-tools
-module load git
 
 
 module list
