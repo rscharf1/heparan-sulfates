@@ -11,7 +11,7 @@ enzymes <- c("Hs2st1", "Hs3st1", "Hs3st3b1", "Hs6st1", "Hs6st2", "Ndst3",
 "Ext1", "Gpc4", "Tgfbr3", "Agrn")
 
 # Set up map 
-projection_path = 'inputs/bonemarrowmap/'
+projection_path = '~/Tools/references/bonemarrowmap/'
 
 ref <- readRDS(paste0(projection_path, 'BoneMarrowMap_SymphonyReference.rds'))
 ref$save_uwot_path <- paste0(projection_path, 'BoneMarrowMap_uwot_model.uwot')
@@ -33,7 +33,7 @@ dev.off()
 query <- readRDS('inputs/ExampleQuery_Roy2021.rds')
 
 query <- map_Query(
-    exp_query = query[['RNA']]@counts, #query[['RNA']]@counts, 
+    exp_query = query[['RNA']]@counts,
     metadata_query = query@meta.data,
     ref_obj = ref,
     vars = 'sampleID'
@@ -123,5 +123,27 @@ hspc_labels <- c(
 pdf("outputs/test2.pdf")
 	FeaturePlot(subset(healthy_mapped, predicted_CellType_Broad %in% hspc_labels), features = "EXT2", reduction = "umap_projected")
 dev.off()
+
+# AML Data 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

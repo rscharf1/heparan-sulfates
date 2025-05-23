@@ -1,0 +1,3554 @@
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: SeuratObject
+Loading required package: sp
+
+Attaching package: ‘SeuratObject’
+
+The following objects are masked from ‘package:base’:
+
+    intersect, t
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 3 / 25
+File 6 / 25
+File 5 / 25
+File 4 / 25
+File 1 / 25
+File 2 / 25
+File 7 / 25
+File 8 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 12 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 14 / 25
+File 13 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 11 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 10 / 25
+File 15 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 16 / 25
+File 9 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 20 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 21 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 22 / 25
+File 18 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 23 / 25
+File 17 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 19 / 25
+File 24 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+File 25 / 25
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Warning: Feature names cannot have underscores ('_'), replacing with dashes ('-')
+Normalizing layer: counts
+Normalizing layer: counts
+Normalizing layer: counts
+Normalizing layer: counts
+Normalizing layer: counts
+Normalizing layer: counts
+Normalizing layer: counts
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**Performing log-normalization
+Performing log-normalization
+Performing log-normalization
+************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+Performing log-normalization
+***********Performing log-normalization
+*****************0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*********0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+****************************************************************************************************Performing log-normalization
+***********0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+****|
+**************************************************************|
+*********************|
+*****0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**|
+********************************************************************|
+************|
+**************************|
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Finding variable features for layer counts
+Finding variable features for layer counts
+Finding variable features for layer counts
+Finding variable features for layer counts
+Finding variable features for layer counts
+Finding variable features for layer counts
+Calculating gene variancesCalculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***************Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*************************************
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Finding variable features for layer counts
+***********************************|
+*************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*******************Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+************************************************************|
+*********************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+************************************  |                                                                              |===================================                                   |  50%Calculating feature variances of standardized and clipped values
+**************|
+  |                                                                              |======================================================================| 100%
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%Calculating feature variances of standardized and clipped values
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+******************Centering and scaling data matrix
+********************************|
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%PC_ 1 
+Positive:  IFIT1B, DCAF12, JUN, BPGM, CCL5, ARL4A, BNIP3L, KRT1, LINC00926, GZMK 
+	   TMCC2, HBE1, DUSP2, TRIM58, KLRB1, RP11-693J15.5, MS4A1, NCR3, GZMB, IGHGP 
+	   TRGC1, ADAM28, IGHA2, NKG7, TRGC2, HOPX, CD8B, NCOA4, TRDC, KLRD1 
+Negative:  TYMS, TOP2A, KIAA0101, HIST1H4C, MKI67, BIRC5, SMC2, CENPF, TUBA1B, TUBB 
+	   NUSAP1, HMGB2, ZWINT, PCNA, SMC4, NUF2, CDT1, CLSPN, CENPU, CCNB2 
+	   UHRF1, UBE2C, CENPW, RRM2, MAD2L1, CDK1, CENPN, CKS2, CDC20, STMN1 
+PC_ 2 
+Positive:  HBD, SLC25A37, AHSP, HEMGN, GYPB, SNCA, ALAS2, SLC4A1, FECH, GYPA 
+	   BLVRB, HBM, RHCE, SLC25A39, HBE1, HMBS, RHAG, CA1, EPB42, DMTN 
+	   RHD, H1F0, CA2, BPGM, KLF1, TRIM58, BNIP3L, SLC2A1, NFIX, SMIM1 
+Negative:  RPS2, MT-CO2, RPS23, MT-CO3, PTMA, RPS17, RPL37A, RPS21, RPL36A, RPL23 
+	   HNRNPA1, NPM1, RPS5, ACTG1, RPLP0, MT-ND1, MIF, JUN, HNRNPA1L2, RPL7A 
+	   GAPDH, VIM, PPIA, HLA-DRB1, HLA-DRA, CD74, HLA-DPB1, CRIP1, EEF1B2, S100A6 
+PC_ 3 
+Positive:  S100A9, CSTA, MNDA, FCN1, LYZ, S100A8, KLF4, RP11-1143G9.4, CST3, TYROBP 
+	   SERPINA1, VCAN, S100A12, LST1, FCER1G, AIF1, FGL2, KCTD12, IFI30, CFD 
+	   CLEC7A, LRRC25, CXCL8, CD68, LGALS1, MS4A6A, LGALS2, CFP, CYP1B1, LILRB2 
+Negative:  IGHM, CD79B, TCL1A, IGLL1, VPREB3, CD79A, RPS5, IGLL5, VPREB1, IGHD 
+	   BCL7A, CD24, NPM1, UHRF1, CD72, PARP1, JUN, AEBP1, STRBP, LEF1 
+	   PDLIM1, MS4A1, RPS2, KIAA0226L, CD38, BLNK, SOX4, EBF1, MIF, PEBP1 
+PC_ 4 
+Positive:  APOC1, CNRIP1, KCNH2, S100A4, FAM178B, S100A6, ALDH1A1, EPCAM, SYNGR1, EPDR1 
+	   AKR1C3, TSC22D1, A4GALT, CXADR, CCL5, SLC16A9, CLCN4, PKLR, CCNE1, MAP7 
+	   PVT1, KLRB1, LINC00152, NECAB1, KRT13, FXN, CTA-392E5.1, MLLT3, FAM89A, CTSW 
+Negative:  TCL1A, IGHM, HLA-DRA, CD79B, IGLL5, IGLL1, CD74, CD24, VPREB3, HLA-DRB1 
+	   SOX4, HLA-DPA1, VPREB1, CD72, CD79A, HLA-DPB1, CD9, KIAA0226L, IGHD, CFAP73 
+	   HLA-DQB1, HLA-DRB5, FCRLA, KNSTRN, MEF2C, BCL7A, MIR181A1HG, PDLIM1, HLA-DQA1, AEBP1 
+PC_ 5 
+Positive:  HLA-DRA, IGHM, BPGM, CD79B, MEF2C, YBX3, BNIP3L, TCL1A, TRIM58, HLA-DQB1 
+	   APOC1, NCOA4, IFIT1B, CNRIP1, SNCA, CD74, DCAF12, ARL4A, HLA-DPA1, MS4A1 
+	   IGHD, HLA-DRB5, ALAS2, NFIX, EPCAM, EPDR1, HBE1, RP11-620J15.3, FECH, HLA-DRB1 
+Negative:  CCL5, NKG7, CRIP1, KLRB1, GNLY, FGFBP2, KLRD1, S100A4, CTSW, CENPE 
+	   GZMH, UBE2C, GZMB, PRF1, CENPF, CCL4, CDCA8, NUSAP1, KLRF1, S100A6 
+	   TPX2, SPON2, PTTG2, AURKB, CDC20, DLGAP5, HOPX, ASPM, TOP2A, KIF23 
+  |                                                                              |===================================                                   |  50%Normalizing layer: counts
+Performing log-normalization
+  |                                                                              |======================================================================| 100%
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+PC_ 1 
+Positive:  IFIT1B, HBD, KRT1, TMCC2, AHSP, HBM, ARG1, HEMGN, ARL4A, KLC3 
+	   IGHG2, IGHG4, IGHA1, RSAD2, RASGRP3, IGHG3, IGLC2, IGHG1, RP11-874J12.4, IGKC 
+	   CD27, TSHZ2, CD8B, RP11-291B21.2, TRBC1, IGLC7, IGLV3-1, THEM5, LINC00582, DPEP1 
+Negative:  HMGB1, H2AFZ, KIAA0101, HSP90AA1, TUBA1B, TUBB, PTMA, RAN, HMGN2, DEK 
+	   GAPDH, STMN1, SLC25A5, RANBP1, DUT, HMGB2, HMGA1, RPLP0, HIST1H4C, HNRNPA1 
+	   TYMS, H2AFV, PPIA, NUCKS1, SNRPE, SNRPG, H2AFY, HNRNPA2B1, SMC2, ATP5G3 
+PC_ 2 
+Positive:  CYBA, VIM, LGALS1, TYROBP, SRGN, FCER1G, LST1, AIF1, CST3, CSTA 
+	   HLA-DRB1, CTSS, LYZ, S100A10, RP11-1143G9.4, COTL1, PYCARD, S100A11, ANXA2, CD74 
+	   HLA-DPB1, ACTG1, FCN1, AP1S2, MNDA, GSTP1, HLA-DRA, HLA-DRB5, HLA-DPA1, IGSF6 
+Negative:  AHSP, CA1, HBD, HBM, PRDX2, GYPA, HEMGN, CA2, KLF1, UROD 
+	   RHAG, TMEM56, SMIM1, RHCE, AK1, RFESD, ANK1, H1F0, MYL4, CENPF 
+	   TFRC, TUBG1, GATA1, MINPP1, UBAC1, NUSAP1, GCLM, MBOAT2, CPOX, BIRC5 
+PC_ 3 
+Positive:  FAM178B, S100A6, KCNH2, S100A4, EPCAM, LMNA, APOC1, CNRIP1, ALDH1A1, CD36 
+	   CPVL, TPM1, LINC00152, CSTA, LINC01133, KLF1, FCN1, CST3, MIR4435-2HG, S100A9 
+	   CAST, SYNGR1, S100A8, BLVRA, FCGRT, G0S2, LYZ, NFIA, HEBP1, RNF130 
+Negative:  VPREB1, CD24, VPREB3, CD79B, IGLL1, TCL1A, IGHM, CD9, AKAP12, EBF1 
+	   CD72, CD79A, PDLIM1, SOX4, CD19, CD38, MME, TCF4, BCL7A, IGLL5 
+	   AEBP1, CMTM8, SSBP2, STMN1, FAM129C, RCSD1, ARPP21, PAX5, CFAP73, IRF4 
+PC_ 4 
+Positive:  NPM1, LDHB, EPCAM, CDK6, CYTL1, MYC, CNRIP1, HSP90AB1, MAP7, PRSS57 
+	   HSPD1, APOC1, MIF, PVT1, FAM178B, PEBP1, EBPL, IMPDH2, NGFRAP1, NPM3 
+	   RPL5, EGFL7, HSPE1, C1QBP, UNG, MEST, RP11-620J15.3, EEF1B2, MLLT3, GCSH 
+Negative:  TYROBP, FCN1, CSTA, LYZ, S100A9, S100A8, FCER1G, MNDA, NUSAP1, RP11-1143G9.4 
+	   VCAN, MKI67, CENPF, S100A12, CDKN3, ASPM, CXCL8, GYPA, CENPE, IGSF6 
+	   CFD, UBE2C, SERPINA1, HMMR, CST3, MS4A6A, LGALS1, TPX2, CA2, TOP2A 
+PC_ 5 
+Positive:  S100A8, S100A9, UHRF1, CSTA, S100A12, FCN1, VCAN, FABP5, CDCA7, LYZ 
+	   IFIT1B, VPREB1, CXCL8, RP11-1143G9.4, MNDA, TYMS, LST1, CFD, IGLL1, MGST1 
+	   FAM111B, AC002454.1, LMNB1, SERPINA1, CDC45, G0S2, PCNA, HBD, IGFBP7, CSF3R 
+Negative:  RPS6, RPS5, RPS8, JUN, RPS3A, RPL14, MT-CO3, RPS17, RPS2, RPS23 
+	   RPSA, CD27, RPL26, RPS7, RPL5, SSR4, MT-CO2, GZMB, RPL37A, FTH1 
+	   RPLP0, TRBC1, EEF1B2, IRF7, RPL23, LILRA4, TSPYL2, RPL7A, PTMA, UGCG 
+PC_ 1 
+Positive:  BPGM, IFIT1B, DCAF12, LTB, KRT1, HBA2, TMCC2, CD27, TRBC1, ALAS2 
+	   SOCS3, HBA1, CCL5, CTSS, CLEC7A, HBB, FCN1, GZMK, SELM, CD8B 
+	   KLRB1, S100A12, SERPINA1, COTL1, NFIX, C5AR1, ARG1, CD14, SLC7A7, GZMA 
+Negative:  KIAA0101, TUBB, TYMS, TUBA1B, HMGB1, CDT1, HMGA1, MCM7, PCNA, CENPU 
+	   HSP90AA1, RAN, RANBP1, HMGB2, STMN1, HIST1H4C, DUT, BIRC5, HNRNPAB, H2AFZ 
+	   SYNGR1, CDK4, CKS1B, CKS2, KCNH2, HSPD1, IDH2, DHFR, TMEM14C, TK1 
+PC_ 2 
+Positive:  GAPDH, RPS2, HNRNPA1, CD74, HLA-DRA, RPL7A, PTMA, HLA-DRB1, ENO1, HLA-DPB1 
+	   RPLP0, HLA-DPA1, PPIA, COTL1, CST3, NPM1, LST1, SERPINB1, LGALS1, CTSS 
+	   TYROBP, FCER1G, CSTA, SLC25A5, ANXA2, PLAC8, LYZ, SAT1, S100A6, TPI1 
+Negative:  HBB, HBA1, SLC4A1, AHSP, HBA2, HBD, ALAS2, HBM, HEMGN, CA1 
+	   GYPB, SLC25A37, GYPA, FECH, EPB42, SNCA, SELENBP1, HMBS, SLC25A39, RHAG 
+	   CA2, FAM210B, BLVRB, MYL4, PRDX2, RHCE, KLF1, TSPO2, BPGM, RFESD 
+PC_ 3 
+Positive:  NPM1, LTB, SPINK2, PEBP1, EGFL7, KIAA0125, MIF, RPLP0, HOPX, NUCB2 
+	   SMIM24, CD27, PRSS57, HSP90AB1, CDK6, CYTL1, TRBC1, MEST, FKBP11, NPDC1 
+	   CD34, RPL7A, IMPDH2, HNRNPA1, MYB, LEF1, CRYGD, STMN1, RPS2, MDK 
+Negative:  FCN1, CSTA, TYROBP, S100A9, LYZ, CST3, S100A8, CLEC7A, FCER1G, G0S2 
+	   MNDA, LST1, PLAUR, SERPINA1, CFP, VCAN, S100A12, CTSS, CD14, MS4A6A 
+	   CD68, SAT1, FGL2, LGALS1, SLC7A7, CD36, C5AR1, CXCL8, RP11-1143G9.4, IFI30 
+PC_ 4 
+Positive:  APOE, SEPP1, C1R, IGFBP5, COL1A2, SERPING1, CXCL12, TFPI, RARRES2, TNC 
+	   ID4, VCAM1, NNMT, EPHX1, C10orf10, CALD1, DCN, FBLN1, EPAS1, EMP2 
+	   OLFML3, FMO3, SNAI2, FRZB, TNFAIP6, LHFP, BGN, LEPR, EFEMP2, LUM 
+Negative:  H2AFZ, PTMA, RPS2, VPREB3, CD24, VPREB1, GAPDH, UHRF1, RP11-1143G9.4, LTB 
+	   MKI67, NUSAP1, IGLL1, COTL1, CD79B, HMGN2, HMGB2, HNRNPA1, LYZ, CSTA 
+	   LMNB1, TYMS, H2AFV, UBE2C, USP1, TMPO, FAM111B, BIRC5, CEP55, SPC25 
+PC_ 5 
+Positive:  CNRIP1, APOC1, FAM178B, ALDH1A1, EPCAM, SMIM10, KCNH2, NMU, AKR1C3, CMBL 
+	   S100A6, FSCN1, CYTL1, FXN, REXO2, SLC10A4, SLC39A3, TFR2, NMNAT3, GATA1 
+	   MAP7, GAL, CTA-392E5.1, GPT, PYCR1, MLLT3, CXADR, MYC, SERPINE2, FAM195A 
+Negative:  VPREB3, VPREB1, CD24, EBF1, NUSAP1, IGLL1, CD79A, CD79B, AKAP12, MKI67 
+	   TCF4, FAM129C, MME, TCL1A, BLNK, AURKB, POU2AF1, KIFC1, FAM111B, CD19 
+	   DNTT, PAX5, UHRF1, GNG7, MZB1, TOP2A, CD72, GTSE1, SPIB, IGHM 
+Normalizing layer: counts
+Normalizing layer: counts
+Performing log-normalization
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***************************************************************************************************|
+*|
+PC_ 1 
+Positive:  HMGB1, H2AFZ, PTMA, KIAA0101, HSP90AA1, TUBA1B, RAN, TUBB, HMGN2, SLC25A5 
+	   DEK, GAPDH, HNRNPA1, RPLP0, PPIA, STMN1, SNRPE, DUT, RANBP1, NUCKS1 
+	   RPL37A, HIST1H4C, HMGB2, NCL, H2AFV, SNRPG, HMGA1, RPS2, HSPD1, ATP5G3 
+Negative:  HBD, IFIT1B, TMCC2, KRT1, AHSP, HBM, HEMGN, ARG1, GYPB, KLC3 
+	   IGHA1, RP11-20D14.6, IGKC, IGHG4, IGHG2, IGHG3, PLVAP, IGHG1, SFRP2, THEM5 
+	   CA1, RASGRP3, IGHGP, IGHA2, CD27, TSHZ2, TRBC1, GDF15, NEFL, NPPA 
+PC_ 2 
+Positive:  LGALS1, VIM, FCER1G, TYROBP, CYBA, SRGN, AIF1, CSTA, CST3, LST1 
+	   COTL1, S100A10, CTSS, RP11-1143G9.4, MNDA, LYZ, HLA-DRB1, ANXA2, S100A11, AP1S2 
+	   FCN1, LINC00936, ACTG1, CD74, GRN, S100A9, HLA-DPB1, CFD, HLA-DRA, GSTP1 
+Negative:  AHSP, CA1, HBD, HBM, PRDX2, CA2, GYPA, HEMGN, GYPB, KLF1 
+	   UROD, HMBS, SMIM1, RHCE, RHAG, RFESD, TMEM56, UBAC1, MYL4, TFRC 
+	   H1F0, AK1, GCLM, TUBG1, CENPF, SPTA1, MBOAT2, NUSAP1, GATA1, MINPP1 
+PC_ 3 
+Positive:  FAM178B, KCNH2, EPCAM, S100A6, CNRIP1, S100A4, APOC1, ALDH1A1, CD36, LINC01133 
+	   LMNA, SYNGR1, NMU, KLF1, LINC00152, PARVB, MIR4435-2HG, CPVL, NFIA, SMIM10 
+	   CAST, GFI1B, NME4, TPM1, LMO2, GATA1, UBAC1, SMIM1, G0S2, AKR1C3 
+Negative:  VPREB1, CD24, VPREB3, CD79B, IGLL1, TCL1A, CD72, IGHM, AKAP12, CD79A 
+	   CD9, PDLIM1, MME, EBF1, CD19, PHGDH, IGLL5, CFAP73, RCSD1, FAM129C 
+	   CMTM8, SSBP2, SOX4, CDKN2A, AFF3, ARPP21, IGLC5, CD38, STMN1, FAM64A 
+PC_ 4 
+Positive:  FCN1, TYROBP, S100A9, CSTA, MNDA, LYZ, S100A8, FCER1G, RP11-1143G9.4, S100A12 
+	   GYPA, NUSAP1, CA2, VCAN, SERPINA1, CLEC7A, CENPF, MKI67, MS4A6A, CFD 
+	   HBM, RHCE, CST3, CENPE, IGSF6, GYPB, CXCL8, HEMGN, LST1, PTTG1 
+Negative:  LDHB, NPM1, MIF, PRSS57, CYTL1, EGFL7, PEBP1, HSP90AB1, MEST, SPINK2 
+	   MYC, CDK6, RPSA, KIAA0125, RPL5, IMPDH2, EBPL, NGFRAP1, CD27, NPR3 
+	   EEF1B2, AC002454.1, HSPD1, RPS18, RPS5, APOC1, MAP7, CNRIP1, HNRNPA1, GATA2 
+PC_ 5 
+Positive:  CD27, RPS3, RPS18, TRBC1, RPS6, JUN, RPS8, RPS5, RPL14, RPS17 
+	   RPL4, RPS3A, MT-CO3, RPL26, RPSA, RPL37, RPS7, RPS23, RPL5, RPS2 
+	   CRIP1, MT-CO2, RPL37A, RPL23, EEF1B2, RPLP0, PTMA, KLRB1, RPL7A, ACTB 
+Negative:  FABP5, IGFBP7, PRSS57, CDCA7, IFIT1B, SOX4, SMIM24, AC002454.1, RP11-620J15.3, EGFL7 
+	   MGST1, STMN1, HBD, MYB, MEST, NREP, SCCPDH, LYZ, NPW, CST3 
+	   IGLL1, CYTL1, CDK6, RNF130, UHRF1, CSF3R, CSTA, TYMS, PHGDH, SERPINB1 
+PC_ 1 
+Positive:  KIAA0101, TUBB, TYMS, TUBA1B, SYNGR1, HMGA1, KCNH2, NME4, FAM178B, HMGB1 
+	   RP11-620J15.3, DHFR, TMEM14C, HNRNPAB, STMN1, MPC2, PCNA, MCM7, HIST1H4C, SMC4 
+	   HSP90AA1, HMGN5, H2AFZ, RAN, CDK4, GMNN, CKS1B, IDH2, DUT, NFIA 
+Negative:  KRT1, TRBC1, S100A10, IFIT1B, COTL1, BPGM, CTSS, DCAF12, RGS1, CD8B 
+	   DDIT4, MKRN1, SELM, S100A11, KLRB1, TMCC2, TSHZ2, CD8A, BNIP3L, AC092580.4 
+	   RP11-291B21.2, SERPINA1, PDZK1IP1, LGALS1, FCN1, MAFB, CLEC7A, CTB-61M7.2, VCAN, S100A12 
+PC_ 2 
+Positive:  HLA-DRA, CST3, HLA-DRB1, CD74, TYROBP, ACTG1, FCER1G, LYZ, LGALS1, CSTA 
+	   MT-CO2, LST1, HLA-DPB1, HLA-DPA1, MT-ND1, HLA-DRB5, CTSS, AIF1, HLA-DQB1, GAPDH 
+	   GSTP1, RP11-1143G9.4, FCN1, COTL1, MT-CO3, NAMPT, NEAT1, PLAUR, TYMP, S100A11 
+Negative:  HBB, HBA2, ALAS2, HBA1, AHSP, HBM, SLC4A1, HBD, SNCA, SLC25A37 
+	   CA1, HEMGN, FECH, GYPB, EPB42, GYPA, SLC25A39, SELENBP1, DMTN, GYPC 
+	   HMBS, CA2, BLVRB, FAM210B, RHCE, RHAG, BPGM, KLF1, HBQ1, SMIM1 
+PC_ 3 
+Positive:  FCN1, S100A9, TYROBP, LYZ, CSTA, S100A8, LGALS3, FCER1G, SERPINA1, G0S2 
+	   VCAN, CST3, NAMPT, LST1, CXCL8, CLEC7A, RP11-1143G9.4, PLAUR, BLVRB, TYMP 
+	   S100A11, S100A12, CD36, CTSS, LGALS1, CD14, GYPA, HBM, MNDA, LGALS2 
+Negative:  NPM1, EEF1B2, HNRNPA1, RPLP0, RPL14, RPL7A, RPS2, RPL37A, PTMA, IGLL1 
+	   MIF, PEBP1, STMN1, SOX4, VPREB1, VPREB3, CD24, CD79A, CD79B, PDLIM1 
+	   NUCB2, ACTG1, MSI2, ITM2C, HSPA8, KIAA0125, HSP90AB1, TCL1A, PARP1, NGFRAP1 
+PC_ 4 
+Positive:  VPREB1, VPREB3, CD24, TCL1A, CD79B, IGLL1, CD79A, NUSAP1, IGHM, MKI67 
+	   CD9, CFAP73, UBE2C, MME, EBF1, IRF4, FAM129C, TOP2A, ARPP21, AKAP12 
+	   PDLIM1, FAM111B, CD72, CD19, BIRC5, CENPF, SPIB, AURKB, BLNK, GNG7 
+Negative:  APOC1, FAM178B, CNRIP1, EPCAM, S100A6, CYTL1, ALDH1A1, SMIM10, S100A4, KCNH2 
+	   CMBL, CSF1, MAP7, SYNGR1, RPS2, RPL14, TFR2, NECAB1, APOE, FSCN1 
+	   RPL37A, EEF1B2, DNPH1, PVT1, LINC00152, FKBP4, REXO2, RPL7A, NPM1, ISOC2 
+PC_ 5 
+Positive:  PRSS57, SPINK2, SMIM24, SNCA, EGFL7, DCAF12, C1QTNF4, KIAA0125, CD34, BNIP3L 
+	   BPGM, MKRN1, IFIT1B, ALAS2, HBA2, HBD, IGFBP7, NPR3, AVP, EGR1 
+	   AC002454.1, HBA1, HBB, MDK, NGFRAP1, CRHBP, MEST, SLC25A37, MGST1, SOX4 
+Negative:  RPL14, MT-CO3, PTMA, RPL37A, MT-CO2, RPL7A, RPS2, MT-ND1, RPLP0, S100A6 
+	   EEF1B2, HSPA8, TRBC1, S100A4, HNRNPA1, NPM1, S100A10, CAST, HMGB2, KLRB1 
+	   ATPIF1, KCNH2, LINC01133, DDIT4, CCL5, ADD2, COTL1, CD8B, TSPAN17, A4GALT 
+Normalizing layer: counts
+Normalizing layer: counts
+Performing log-normalization
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*******0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+********************************************************************|
+*****PC_ 1 
+Positive:  KIAA0101, TYMS, BIRC5, CENPF, KCNH2, MKI67, CA2, HIST1H4C, KLF1, TOP2A 
+	   CENPU, DHFR, FAM178B, MBOAT2, TUBB, SYNGR1, TMEM56, SMIM1, RRM2, NUSAP1 
+	   TK1, ANK1, UROD, TUBG1, HMGB2, CCNA2, GATA1, TUBA1B, CENPW, MYL4 
+Negative:  VIM, TRBC1, COTL1, S100A11, CTSS, ACTG1, CCL5, CD8B, RGS1, LGALS1 
+	   FCN1, CLEC7A, RGS2, FGL2, CFP, KLRB1, AC092580.4, S100A12, NAMPT, AIF1 
+	   GZMA, FCER1G, TYROBP, NCF2, LINC00936, SERPINA1, HLA-DPB1, GZMH, CD14, AP1S2 
+PC_ 2 
+Positive:  CST3, TYROBP, FCN1, LST1, CSTA, FCER1G, LYZ, CTSS, FTL, TYMP 
+	   AIF1, PSAP, SERPINA1, HLA-DRA, FTH1, S100A11, SAT1, RP11-1143G9.4, LGALS1, CLEC7A 
+	   NEAT1, NAMPT, S100A9, IFI30, MNDA, CFD, HLA-DRB1, FGL2, MS4A7, CFP 
+Negative:  HBB, ALAS2, HBA2, HBA1, SNCA, SELENBP1, HBM, BPGM, SLC4A1, HEMGN 
+	   SLC25A37, FECH, UBB, GYPC, AHSP, EPB42, HBD, IFIT1B, GYPB, SLC25A39 
+	   STRADB, GMPR, DMTN, PDZK1IP1, CA1, GYPA, DCAF12, TSPO2, TMCC2, HMBS 
+PC_ 3 
+Positive:  RPS23, RPL37A, RPSA, RPS17, RPL7A, RPS2, RPLP0, HNRNPA1, RPS24, RPL4 
+	   EEF1B2, PTMA, NPM1, MT-ND4, MT-CO2, MT-CO3, MT-ND1, HMGN1, MIF, ACTG1 
+	   PPIA, HSPA8, PEBP1, HSP90AB1, GAPDH, HMGB1, HSPE1, FBL, SUB1, STMN1 
+Negative:  HBA2, HBB, HBA1, SNCA, ALAS2, LGALS3, HBD, SLC25A37, HBM, SLC4A1 
+	   SELENBP1, BLVRB, HEMGN, FECH, GYPB, AHSP, EPB42, BPGM, BNIP3L, GYPA 
+	   TSPO2, IFIT1B, DCAF12, STRADB, SLC25A39, CA1, DMTN, HMBS, MPP1, GMPR 
+PC_ 4 
+Positive:  VPREB3, CD79A, CD24, IGLL1, CD79B, IGHM, TCF4, VPREB1, TCL1A, GNG7 
+	   SPIB, MZB1, CD74, HLA-DRA, FAM129C, MS4A1, POU2AF1, BLNK, EBF1, BANK1 
+	   PLD4, ITM2C, JCHAIN, CD19, FCRLA, AFF3, PDLIM1, LAT2, HLA-DMA, HLA-DPB1 
+Negative:  FAM178B, S100A6, KCNH2, EPCAM, APOC1, CNRIP1, S100A4, LINC01133, SYNGR1, CTA-392E5.1 
+	   ALDH1A1, NFIA, SMIM10, NMU, FTH1, PVT1, TFR2, PKLR, AKR1C3, MT2A 
+	   PYCR1, SLC16A9, PRKAR2B, RHOBTB3, CDC42BPA, HEBP1, A4GALT, MAP7, NMNAT3, ADD2 
+PC_ 5 
+Positive:  PRSS57, IFIT1B, DCAF12, BNIP3L, BPGM, GPX1, EGFL7, RP11-620J15.3, CYTL1, TMCC2 
+	   SMIM24, CDK6, GMPR, CNRIP1, MPP1, KIAA0125, NCOA4, KRT1, SNCA, APOC1 
+	   AC002454.1, SPINK2, NPW, MKRN1, ANKRD28, STRADB, ALAS2, MYB, MAP7, HBB 
+Negative:  PTMA, CCL5, FCGR3A, NKG7, NUSAP1, GZMA, GZMH, HMMR, GNLY, CST7 
+	   CDKN3, S100A4, KLRD1, MT-CO2, MGST3, MT-CO3, MT2A, FGFBP2, HN1, ASPM 
+	   TUBB4B, MT-ND4, PTTG1, BIRC5, GTSE1, RPL37A, MKI67, CENPE, DLGAP5, CENPF 
+******************PC_ 1 
+Positive:  HBD, IFIT1B, TMCC2, AHSP, HBM, KRT1, ARG1, KLC3, HEMGN, ITLN1 
+	   ARL4A, HBG2, RAP1GAP, IGKV3D-11, IGHV4-34, DPEP1, IGHV5-51, IGKV1-27, SAMD7, IGKV3-11 
+	   IGHA1, IGKV2-29, IGHV1-69, TRBV3-1, KCNG1, IGLV3-25, TRBV28, FEZ1, IGLV2-14, APLP1 
+Negative:  KIAA0101, HMGB1, TUBB, H2AFZ, HMGN2, TUBA1B, TYMS, CENPU, HSP90AA1, STMN1 
+	   HMGB2, PTMA, HMGA1, RAN, PCNA, RANBP1, DEK, H3F3A, DUT, H2AFY 
+	   GAPDH, HIST1H4C, RPS24, SNRPE, PRDX3, IDH2, SNRPG, YWHAH, TMEM14C, HNRNPA2B1 
+PC_ 2 
+Positive:  CYBA, VIM, SRGN, CTSS, TYROBP, FCER1G, RPL26, CST3, LGALS1, S100A10 
+	   AIF1, CSTA, RP11-1143G9.4, RPS23, COTL1, LYZ, EEF1A1, LST1, HLA-DRB1, S100A11 
+	   RPS2, ACTG1, RPS24, RPL23, CD74, FCN1, RPL37A, RPS3A, HLA-DRA, ANXA1 
+Negative:  AHSP, CA1, HBM, HBD, HEMGN, PRDX2, GYPA, CA2, HMBS, RHCE 
+	   UROD, RHAG, TMEM56, MYL4, H1F0, KLF1, RFESD, SMIM1, MINPP1, NUSAP1 
+	   TUBG1, GCLM, CENPF, RHD, UBAC1, DLGAP5, AK1, PTTG1, BIRC5, UBE2T 
+PC_ 3 
+Positive:  CSTA, FCN1, LYZ, S100A9, RP11-1143G9.4, S100A8, TYROBP, FCER1G, S100A12, MNDA 
+	   MS4A6A, VCAN, CST3, CLEC7A, SERPINA1, CD68, CFD, FGL2, LST1, CD14 
+	   CFP, LGALS1, CPVL, CXCL8, TYMP, NAMPT, CEBPD, CLEC12A, SPI1, PLAUR 
+Negative:  JUN, LDHB, NPM1, RPL5, RPLP0, HNRNPA1, RPL14, EEF1B2, RPS2, PEBP1 
+	   RPL7A, EEF1A1, RPS23, RPS17, RPL37A, HMGN1, RPS3A, IER2, MIF, RPL26 
+	   RPL23, CDK6, HSP90AB1, SPINK2, PRSS57, TRBC1, NGFRAP1, MEST, CD27, PTMA 
+PC_ 4 
+Positive:  CD24, CD79B, VPREB3, TCL1A, VPREB1, IGHM, IGLL1, CD79A, NUSAP1, CD9 
+	   CD72, PDLIM1, BLNK, MKI67, CD74, FAM129C, HLA-DRA, EBF1, TOP2A, IGHD 
+	   UBE2C, MME, FAM111B, LDLRAD4, PLD4, MZB1, JCHAIN, HLA-DPA1, GNG7, MS4A1 
+Negative:  APOC1, FAM178B, ALDH1A1, CNRIP1, EPCAM, SYNGR1, KCNH2, SMIM10, EPDR1, GRTP1 
+	   MAP7, NMNAT3, FSCN1, CYTL1, AKR1C3, MIR4435-2HG, LINC01133, FAM45A, RHOBTB3, B3GALNT1 
+	   REXO2, GLRX, FKBP4, S100A4, CPVL, SERPINE2, EIF4EBP1, CXADR, S100A6, CTA-392E5.1 
+PC_ 5 
+Positive:  RPL14, RPS2, EEF1A1, RPS17, MT-ND4, RPS3A, FTH1, RPL37A, MT-CO2, MT-CO3 
+	   S100A6, ACTB, RPL26, JUN, TRBC1, PTMA, RPS23, RPL5, CCL5, RPLP0 
+	   KLRB1, GZMA, RPL7A, RPL23, CD27, NKG7, HSPA8, IER2, S100A4, RPS24 
+Negative:  IGLL1, NREP, PRSS57, SMIM24, SPINK2, HBD, STMN1, RP11-620J15.3, CDCA7, CD34 
+	   KIAA0125, BAALC, EGFL7, SOX4, CYTL1, FABP5, NPR3, IFIT1B, CDK6, AHSP 
+	   MYB, IGFBP7, ANKRD28, UHRF1, AC002454.1, VPREB1, TCF4, HLA-DRA, GUCY1A3, LAT2 
+Normalizing layer: counts
+**|
+Normalizing layer: counts
+Calculating feature variances of standardized and clipped values
+Performing log-normalization
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Finding variable features for layer counts
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+************************************************|
+**************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***************0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*********************************************************************|
+****************|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%PC_ 1 
+Positive:  TMCC2, ARG1, RAP1GAP, HBG2, THEM5, HBG1, IFI27, ITLN1, ARG2, IGKC 
+	   NPPA, IGHA1, RP11-510M2.2, RP3-471M13.2, RD3L, FFAR2, GDF15, LYPD8, IGHV3-23, FABP4 
+	   CTD-2129N1.1, TRAV14DV4, PPBP, APOBEC3H, TF, IL34, RP11-219B17.3, TBX15, LINC01565, SLC5A4 
+Negative:  RPL37A, PTMA, RPS21, HNRNPA1, RPLP1, RPS24, RPS2, RPLP0, RPL26, RPS23 
+	   EEF1A1, RPL7A, RPL37, RPS8, RPL41, RPS17, RPS28, RPL35, RPS6, RPL23 
+	   RPS3A, RPL39, RPL15, RPS18, RPL27A, MT-ND1, RPS29, RPL14, EEF1B2, RPS20 
+PC_ 2 
+Positive:  VIM, TMSB4X, HLA-B, HLA-C, CYBA, TMSB10, B2M, ZFP36, JUN, SRGN 
+	   EVI2B, CTSS, CORO1A, ACTG1, ARHGDIB, CD74, S100A10, LGALS1, COTL1, IER2 
+	   S100A11, IL2RG, RABAC1, FKBP11, NR4A2, EMP3, MCL1, SELL, LY96, LTB 
+Negative:  CA1, PRDX2, CA2, UBAC1, BIRC5, KIAA0101, TUBG1, TFRC, SMC2, TOP2A 
+	   CENPF, NUSAP1, KCNH2, PRC1, CCNA2, CENPU, SMC4, TUBA1B, TUBB, HMGB2 
+	   MKI67, CCNB2, NFIA, CDK1, TUBB4B, TSPAN17, HIST1H4C, CKS2, NME4, HMGN5 
+PC_ 3 
+Positive:  IGLC7, CCND1, FRZB, TNFRSF17, IGLL5, JSRP1, IGLC6, DERL3, FCRL5, JCHAIN 
+	   SPAG4, MZB1, IGLC3, PLPP5, IGLC5, FKBP2, TRIB1, FKBP11, MANF, IGLV3-27 
+	   SEC11C, CLECL1, SDC1, SLC22A17, COMMD3, FAM92B, HERPUD1, SEL1L, PDIA4, P2RX1 
+Negative:  SELL, ARHGDIB, LTB, AIF1, COTL1, TRAC, CORO1A, IL32, FYB, RPL21 
+	   EIF3E, LDHB, RPS4Y1, ANXA1, ENO1, LCP1, HLA-DRB1, SERPINB1, IL7R, ACTG1 
+	   NR4A2, NPM1, RPS12, SOCS3, HLA-DPA1, HLA-DPB1, SNHG7, NAP1L1, PKM, LST1 
+PC_ 4 
+Positive:  IL32, TRAC, LTB, IL7R, TRBC1, CD27, CD8B, RPS27, RPS4Y1, RPS12 
+	   RPL31, RP11-291B21.2, RPL21, RPS29, RPS25, LDHB, RPL3, RPL23A, RPS27A, RPL13 
+	   CD8A, HLA-C, RPS3, RPS14, RPS18, RPL34, B2M, RPS15A, RPS19, RPLP2 
+Negative:  CSTA, RP11-1143G9.4, LYZ, FCN1, TYROBP, FCER1G, S100A9, VCAN, S100A8, MNDA 
+	   LST1, S100A12, CST3, GRN, PLBD1, CXCL8, SPI1, CD14, RNASE2, LGALS1 
+	   KLF4, TYMP, ANXA2, CFD, SERPINA1, HLA-DRA, CD68, LY86, LINC00936, HLA-DRB1 
+PC_ 5 
+Positive:  NUSAP1, CA2, CDK1, HMGB2, CENPE, CENPF, CDKN3, MKI67, TUBB4B, PTTG1 
+	   SMC4, DLGAP5, PRC1, BIRC5, ARL6IP1, CENPA, CA3, KIF23, CCNB2, HMMR 
+	   TUBG1, HIST1H4C, DEPDC1, TOP2A, NUF2, CA1, PRDX2, AURKA, TPX2, UBE2C 
+Negative:  CDK6, PRSS57, NGFRAP1, CYTL1, RP11-620J15.3, MYB, EGFL7, GCSH, MEST, UNG 
+	   APOC1, KIAA0125, EBPL, NME1, PTRF, AC002454.1, NPW, SDPR, FABP5, CNRIP1 
+	   FSCN1, NPM3, ALDH1A1, SPINK2, ANKRD28, SERPINE2, CD34, SOX4, IGFBP7, AHCY 
+Finding variable features for layer counts
+Normalizing layer: counts
+  |                                                                              |======================================================================| 100%
+Performing log-normalization
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Finding variable features for layer counts
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+********************************Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+****************************************|
+*************************************|
+**************************************|
+Finding variable features for layer counts
+Calculating feature variances of standardized and clipped values
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*****************0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+****************************************************************************|
+*******|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%Calculating feature variances of standardized and clipped values
+  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**********************  |                                                                              |======================================================================| 100%
+****************************|
+Calculating feature variances of standardized and clipped values
+Calculating feature variances of standardized and clipped values
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*********************************************0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************|
+*****************************************|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%  |                                                                              |===================================                                   |  50%Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+  |                                                                              |======================================================================| 100%
+  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+PC_ 1 
+Positive:  CD27, KLRB1, CCL5, CD8B, AQP3, FKBP11, CD8A, CST7, GZMK, GZMA 
+	   EEF1B2, TNFRSF4, CTSW, IL23A, TTC39C-AS1, RP11-1399P15.1, KRT1, PRF1, FGFBP2, TNFRSF13C 
+	   TRGC2, IL2RB, GZMH, NKG7, RP11-291B21.2, KLRD1, MS4A1, RGS16, SPON2, HOPX 
+Negative:  KIAA0101, CST3, TYMS, TUBA1B, TUBB, H3F3A, H2AFY, LYZ, RNF130, TKT 
+	   H2AFZ, CSTA, AIF1, STMN1, TALDO1, CENPU, BLVRB, BIRC5, LST1, CD36 
+	   SPI1, FCN1, PRDX3, MKI67, CENPW, NUSAP1, TK1, GPX1, TYMP, GSTP1 
+PC_ 2 
+Positive:  CA2, AHSP, CA1, GYPA, PRDX2, GYPB, HEMGN, KLF1, HMBS, SLC4A1 
+	   HBB, RHAG, SMIM1, ALAS2, HBD, HBM, RHCE, CENPF, TMEM56, GYPC 
+	   HBA1, KIAA0101, NUSAP1, SNCA, UROD, HBA2, TSPO2, FECH, SELENBP1, MYL4 
+Negative:  FCN1, CSTA, CTSS, CST3, SERPINA1, LST1, SPI1, TYMP, CD68, FTL 
+	   AIF1, S100A11, CLEC7A, LYZ, PLAUR, S100A9, TYROBP, NAMPT, S100A8, COTL1 
+	   PSAP, IFI30, CFP, TMEM176B, CFD, LGALS2, FCER1G, GRN, CD14, NCF2 
+PC_ 3 
+Positive:  RPS2, RPL37A, HNRNPA1, PTMA, RPS17, RPL7A, RPS24, RPLP0, EEF1B2, NPM1 
+	   MT-ND4, MT-CO2, MT-CO3, MT-ND1, MIF, PPIA, ACTG1, GAPDH, STMN1, HSP90AB1 
+	   ACTB, HMGB1, CTSW, MT-ND5, PEBP1, PLAC8, GZMA, CST7, CCL5, HOPX 
+Negative:  HBA2, HBB, SLC25A37, SLC4A1, ALAS2, HBM, HBA1, SNCA, HBD, GYPA 
+	   HEMGN, GYPB, TSPO2, SELENBP1, AHSP, BLVRB, CA1, RHCE, DMTN, RHAG 
+	   EPB42, HMBS, CA2, RHD, FECH, LGALS3, ACKR1, PDZK1IP1, SMIM1, GMPR 
+PC_ 4 
+Positive:  CD79A, EEF1B2, RPLP0, HLA-DRA, HLA-DQA1, MS4A1, NPM1, IGHM, RPS2, HLA-DRB1 
+	   BANK1, IGHD, VPREB3, RPL7A, HLA-DMB, HLA-DQB1, GNG7, HLA-DMA, KIAA0125, LINC00926 
+	   MEF2C, RPL37A, ITM2C, HLA-DRB5, HLA-DQA2, FAM129C, TNFRSF13C, JCHAIN, TCL1A, GPR183 
+Negative:  NKG7, GNLY, PRF1, GZMA, FGFBP2, CST7, GZMB, CCL5, CTSW, KLRF1 
+	   SPON2, KLRD1, CCL4, GZMH, HOPX, TRDC, CLIC3, KLRB1, FCGR3A, MYOM2 
+	   CMC1, IL2RB, PRSS23, CCL3, S1PR5, CD160, FCER1G, RHOC, TYROBP, KIR2DL3 
+PC_ 5 
+Positive:  CD79A, HLA-DQA1, CD74, MS4A1, HLA-DRA, CD79B, IGHM, FAM129C, VPREB3, HLA-DRB1 
+	   JCHAIN, HLA-DPB1, HLA-DPA1, SPIB, IGHD, HLA-DRB5, BANK1, HLA-DMA, GNG7, HLA-DMB 
+	   IRF8, TCF4, HLA-DQB1, LINC00926, HLA-DQA2, PLD4, TCL1A, TSPAN13, MEF2C, MZB1 
+Negative:  CNRIP1, FAM178B, APOC1, S100A6, EPCAM, KCNH2, ALDH1A1, NPM1, VIM, HSPA8 
+	   SMIM10, RPS2, S100A4, NMU, CD27, PYCR1, NGFRAP1, CYTL1, TIMP1, SLC40A1 
+	   RPL7A, PPA1, HSPB1, MAP7, FSCN1, LINC01133, CTA-392E5.1, PVT1, S100A10, EEF1B2 
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+PC_ 1 
+Positive:  DCAF12, BPGM, KRT1, IFIT1B, BNIP3L, HBA2, SNCA, HBB, HBA1, ALAS2 
+	   UBB, NCOA4, SELENBP1, NFIX, KLC3, TRIM58, TMCC2, SLC25A37, LINC00570, RUNDC3A 
+	   ARG1, PDZK1IP1, RAP1GAP, CLIC2, CD8B, PCSK1N, LGALS3, RP11-20D14.6, CCL5, SLC25A39 
+Negative:  KIAA0101, TYMS, BIRC5, TK1, MKI67, TUBB, CENPF, CENPU, NUSAP1, TOP2A 
+	   UBE2T, TUBG1, RRM2, CENPW, CCNA2, TUBA1B, CDT1, DHFR, CDK1, CCNB2 
+	   HMMR, UBE2C, PCNA, DLGAP5, CDC20, ZWINT, HEBP1, CDKN3, SMC2, KCNH2 
+PC_ 2 
+Positive:  MT-CO2, RPS24, ACTB, MT-CO3, MT-ND1, FTL, RPS2, RPL37A, PTMA, VIM 
+	   HNRNPA1, SRGN, S100A6, ACTG1, RPL7A, GAPDH, CST3, S100A4, COTL1, CTSS 
+	   FTH1, TYROBP, LYZ, RPLP0, CSTA, LST1, LGALS1, AIF1, CD74, FCN1 
+Negative:  AHSP, HBB, HBA2, SLC4A1, ALAS2, HBA1, SLC25A37, HBD, HBM, CA1 
+	   SNCA, HEMGN, SELENBP1, FECH, BLVRB, EPB42, SLC25A39, GYPA, DMTN, HMBS 
+	   GYPB, BPGM, TSPO2, GLRX5, RHCE, RHAG, KLF1, HBQ1, DCAF12, MYL4 
+PC_ 3 
+Positive:  FCN1, S100A9, LYZ, CSTA, CST3, S100A8, CXCL8, SERPINA1, CLEC7A, G0S2 
+	   LST1, CFD, LGALS3, KLF4, MS4A6A, VCAN, CD14, CFP, S100A12, MNDA 
+	   LGALS2, TMEM176B, RP11-1143G9.4, PLAUR, TYROBP, AIF1, TYMP, CD68, FCER1G, SPI1 
+Negative:  RPS5, EEF1B2, NPM1, RPLP0, RPL7A, RPS2, RPL37A, HNRNPA1, PTMA, HSPA8 
+	   HMGN1, RPS24, HSP90AB1, MT-CO3, MT-CO2, CCL5, PPIA, MT-ND1, GZMA, NKG7 
+	   HMGB1, C12orf75, KLRB1, SNRPD1, NUCB2, CD8B, GNLY, FKBP11, HSP90AA1, C1QBP 
+PC_ 4 
+Positive:  PRSS57, IGLL1, EGFL7, SMIM24, SPINK2, TCF4, STMN1, SOX4, CD34, CYTL1 
+	   RP11-620J15.3, DCAF12, NPW, KIAA0125, ITM2C, MYB, PLD4, MYL6B, NCOA4, C1QTNF4 
+	   GPX1, CD79A, BCL11A, NREP, HLA-DRA, FABP5, GNG7, MDK, MZB1, JCHAIN 
+Negative:  CCL5, NKG7, S100A4, GZMA, S100A6, GNLY, ACTB, GZMH, KLRB1, FGFBP2 
+	   CCL4, S100A10, CMC1, MT-CO3, SRGN, TRGC2, MT-CO2, PTMA, PRF1, FTH1 
+	   AQP1, FCGR3A, GZMK, MYOM2, TRDC, RPS2, RPL37A, RPS24, CD8A, CD8B 
+PC_ 5 
+Positive:  PRSS57, EGFL7, CYTL1, S100A4, NPW, CD34, RP11-620J15.3, SMIM24, SPINK2, SRGN 
+	   IGFBP7, MEST, MPO, MGST1, SYNGR1, CDK6, NGFRAP1, NKG7, DCAF12, GAPDH 
+	   AC002454.1, C1QTNF4, MDK, S100A6, LAPTM4B, ALDH1A1, NPR3, SMIM10, UNG, CPA3 
+Negative:  CD79A, HLA-DQB1, MS4A1, IGHD, HLA-DQA1, IGHM, HLA-DRA, CD79B, CD74, LINC00926 
+	   HLA-DPA1, HLA-DRB1, HLA-DPB1, FCER2, IGKC, HLA-DMB, MEF2C, BANK1, HLA-DMA, VPREB3 
+	   TCL1A, ADAM28, GNG7, FAM129C, IRF8, IGLC3, IGLC2, BLK, SPIB, TSPAN13 
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*****************************************PC_ 1 
+Positive:  KRT1, IFIT1B, HBA2, HBA1, ALAS2, HBB, TMCC2, TRIM58, ARG1, RP11-291B21.2 
+	   SLC25A37, RP11-20D14.6, S100B, KLC3, CNIH3, KLRB1, S100A10, ITLN1, IGKC, THEM5 
+	   HBD, RP5-887A10.1, RASGRP3, LINC00926, TRBV28, AC079767.4, CCL5, IL2RB, AL928768.3, SLC4A1 
+Negative:  KIAA0101, TYMS, TUBB, TUBA1B, CENPU, HMGB1, HMGB2, HMGA1, H2AFZ, BIRC5 
+	   STMN1, PCNA, HSP90AA1, MCM7, RAN, DUT, DHFR, DEK, YWHAH, CKS2 
+	   HNRNPAB, HMGN2, HIST1H4C, RRM2, HMGB3, TMEM14C, RANBP1, SMC4, SYNGR1, CDT1 
+PC_ 2 
+Positive:  HBB, AHSP, HBA1, HBA2, SLC4A1, HBD, HBM, SLC25A37, GYPB, ALAS2 
+	   CA1, HEMGN, BLVRB, GYPA, HMBS, PRDX2, MYL4, HBQ1, CA2, KLF1 
+	   RHCE, RHAG, GYPC, UROD, GLRX5, TMEM56, TSPO2, SMIM1, ANK1, RFESD 
+Negative:  VIM, ACTG1, MT-CO2, MT-ND4, TYROBP, CTSS, HLA-DRA, FCER1G, CD74, HLA-DRB1 
+	   CST3, KLF4, MT-CYB, MT-CO3, MT-ND1, LST1, GSTP1, COTL1, CSTA, LGALS1 
+	   AIF1, RPL37A, RPS2, HLA-DPA1, S100A11, GAPDH, HNRNPA1, HLA-DPB1, ANXA2, AP1S2 
+PC_ 3 
+Positive:  FCN1, CSTA, S100A9, TYROBP, LYZ, S100A8, S100A11, SERPINA1, CST3, FCER1G 
+	   MNDA, CFD, PLAUR, FGL2, LST1, LGALS1, VCAN, RP11-1143G9.4, CLEC7A, TYMP 
+	   S100A12, NCF2, LGALS2, IFI30, CFP, CD14, CXCL8, CD36, KLF4, ANXA2 
+Negative:  NPM1, HNRNPA1, IGLL1, RPLP0, HMGN1, RPL7A, RPS2, VPREB1, PEBP1, VPREB3 
+	   CD24, MIF, CD79A, RPL37A, CD79B, CMTM8, MSI2, STMN1, KIAA0125, HSP90AB1 
+	   PTMA, EBF1, SOX4, MME, CDCA7L, MZB1, CDCA7, UHRF1, CD9, DNTT 
+PC_ 4 
+Positive:  FAM178B, APOC1, EPCAM, CNRIP1, ALDH1A1, AKR1C3, KCNH2, SMIM10, NMU, APOL4 
+	   GAL, FSCN1, APOE, MYC, PVT1, S100A6, CMBL, PYCR1, FAM89A, NMNAT3 
+	   B3GALNT1, CTA-392E5.1, RHOBTB3, PKLR, REXO2, CYTL1, SYNGR1, A4GALT, FKBP4, AKR1C1 
+Negative:  VPREB1, VPREB3, CD24, NUSAP1, MKI67, CD79B, IGLL1, CD9, TOP2A, AURKB 
+	   CD79A, MME, EBF1, FAM111B, TCL1A, HLA-DRA, UBE2C, SGOL1, IGHM, LAT2 
+	   CD72, TPX2, CENPF, UHRF1, POU2AF1, HRK, TCF4, CD74, FAM129C, SPIB 
+PC_ 5 
+Positive:  PKM, CMTM8, VPREB1, AIF1, S100A8, COTL1, FCN1, S100A12, CD24, CD9 
+	   VCAN, CSTA, S100A9, AURKB, HSPA8, RP11-1143G9.4, UHRF1, GAPDH, TOP2A, S100A10 
+	   ACTG1, LMNB1, PHGDH, EBF1, NPM1, AKAP12, MNDA, CRNDE, CD14, SERPINA1 
+Negative:  SERPINF1, LILRA4, SCT, GZMB, TPM2, CLIC3, SMPD3, IRF7, LRRC26, PLD4 
+	   IRF8, DNASE1L3, CCDC50, JCHAIN, PTCRA, UGCG, PPP1R14B, C1orf186, IL3RA, SHD 
+	   DERL3, RP11-73G16.2, PTPRS, TCF4, SPIB, ITM2C, GAS6, RP11-117D22.2, LILRB4, LINC00996 
+*********|
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Finding variable features for layer counts
+PC_ 1 
+Positive:  IFIT1B, KRT1, TMCC2, HBD, IGKC, ARG1, KLC3, IGHA1, IL32, IGLC3 
+	   SELM, TRBC1, IGHG3, HBM, IGLC2, IGHGP, IGHG4, THEM5, KLRB1, RP11-20D14.6 
+	   IGHG1, CD8B, RP11-291B21.2, IGHA2, AL928768.3, FCRL5, JSRP1, IGLV3-1, GZMK, PNOC 
+Negative:  KIAA0101, HMGB1, TUBB, TYMS, TUBA1B, HMGA1, HMGB2, RAN, H2AFZ, DUT 
+	   STMN1, HSP90AA1, TMEM14C, HMGN2, CENPU, SYNGR1, PCNA, PTMA, ATPIF1, BIRC5 
+	   MCM7, RP11-620J15.3, RANBP1, HSPD1, ATP5G3, KCNH2, DEK, HIST1H4C, DHFR, FAM178B 
+PC_ 2 
+Positive:  AHSP, CA1, HBD, HBM, HEMGN, SLC4A1, GYPB, GYPA, PRDX2, HMBS 
+	   SMIM1, CA2, BLVRB, KLF1, RHAG, RHCE, UROD, MYL4, RFESD, TMEM56 
+	   TSPO2, H1F0, MINPP1, CR1L, AK1, GATA1, ANK1, SPTA1, TRIM10, EPOR 
+Negative:  CTSS, CSTA, LST1, TYROBP, COTL1, SRGN, AIF1, FCER1G, CST3, S100A11 
+	   LGALS1, FCN1, MNDA, RP11-1143G9.4, LYZ, AP1S2, TYMP, SAT1, KLF4, LINC00936 
+	   ACTG1, HLA-DRB1, HLA-DRA, SERPINA1, ANXA2, VCAN, CD74, CXCL8, CFP, IFI30 
+PC_ 3 
+Positive:  BLVRB, S100A9, FCN1, S100A8, LYZ, SLC4A1, HBM, GYPA, TYROBP, GYPB 
+	   CSTA, CA2, HEMGN, S100A12, MNDA, FCER1G, HBD, CA1, RHCE, CXCL8 
+	   VCAN, CD36, CST3, SERPINA1, AHSP, CLEC7A, CD14, RP11-1143G9.4, RHAG, HMBS 
+Negative:  LDHB, NPM1, RPSA, RPL5, RPS18, JUN, MIF, EEF1B2, RPL4, RPS23 
+	   RPLP0, HNRNPA1, RPL7A, PEBP1, IL32, RPL23, HMGN1, RPL37A, RPS2, RPS17 
+	   TRBC1, HSP90AB1, GTF3A, HSPA8, PPA1, FKBP11, PTMA, RP1-313I6.12, NGFRAP1, RPS24 
+PC_ 4 
+Positive:  CD24, VPREB3, IGLL1, VPREB1, CD79B, TCL1A, CD79A, SPIB, CMTM8, CD72 
+	   MME, CD9, EBF1, FAM64A, SOX4, FAM129C, IGLC5, POU2AF1, NUSAP1, MKI67 
+	   PDLIM1, GNG7, SGOL2, TCF4, AURKB, IGHM, PAX5, SMC4, CD19, BLNK 
+Negative:  FAM178B, EPCAM, KCNH2, CNRIP1, APOC1, ALDH1A1, NMU, CTA-392E5.1, SMIM10, S100A6 
+	   SYNGR1, CMBL, AKR1C3, PYCR1, B3GALNT1, RHOBTB3, LINC01133, NMNAT3, S100A4, FXN 
+	   REXO2, FKBP4, MLLT3, HEBP1, FSCN1, LMNA, PKLR, TPM1, TSPAN17, CDC42BPA 
+PC_ 5 
+Positive:  PRSS57, SOX4, EGFL7, RP11-620J15.3, IFIT1B, CYTL1, IGLL1, AC002454.1, BLVRB, MYB 
+	   SMIM24, STMN1, MEST, CDCA7, NREP, KIAA0125, HBD, FABP5, PTRF, PDLIM1 
+	   SPINK2, DPPA4, GATA2, KRT1, UHRF1, MZB1, HACD1, TCF4, MAP7, AHSP 
+Negative:  IL32, RPSA, MT-ND2, JUN, MT-CYB, RPS18, RPS17, RPL5, RPL37A, TRBC1 
+	   RPS23, RPL4, MT-ATP6, MT-ND4, RPLP0, RPL23, RPL7A, MT-CO3, MT-CO2, KLRB1 
+	   PTMA, RPS24, EEF1B2, CCL5, MT-ND1, HSPA8, FTH1, RPS2, GZMA, MT-ND5 
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Centering and scaling data matrix
+Normalizing layer: counts
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%Performing log-normalization
+  |                                                                              |======================================================================| 100%
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+PC_ 1 
+Positive:  KRT1, IFIT1B, TMCC2, ARL4A, IGKC, ARG1, SELM, IGHA1, KLC3, IGLC2 
+	   RUNDC3A, HBD, S100A10, CRIP1, IGLC3, RP11-291B21.2, KLRB1, TNFRSF4, CD8B, CD8A 
+	   COTL1, PRDM1, S100A11, LY96, S100A9, ITLN1, ZBP1, ALOX5AP, SAMHD1, AC092580.4 
+Negative:  HMGB1, KIAA0101, TUBB, HSP90AA1, TUBA1B, DUT, HMGA1, YBX1, TYMS, HIST1H4C 
+	   RAN, TMEM14C, METAP2, ATPIF1, SMC4, HMGB2, HMGN5, AKR1C3, HSPD1, KCNH2 
+	   H2AFZ, RANBP1, PCNA, MPC2, HNRNPAB, FAM178B, DEK, CCT6A, HEBP1, DHFR 
+PC_ 2 
+Positive:  AHSP, HBD, HBM, SLC4A1, HEMGN, GYPB, BLVRB, GYPA, CA1, PRDX2 
+	   HMBS, RHCE, SMIM1, CA2, MYL4, KLF1, RHAG, RHD, TSPO2, UROD 
+	   RFESD, TMEM56, GCLM, TRIM10, EPOR, CR1L, SPTA1, CPOX, GYPE, MINPP1 
+Negative:  SRGN, AIF1, CTSS, RP11-1143G9.4, CST3, GAPDH, AP1S2, CD74, SPI1, HLA-DRA 
+	   LST1, CSTA, ENO1, LGALS1, MT-CO2, COTL1, HLA-DRB1, TNFSF13B, TYROBP, S100A11 
+	   RNF130, MNDA, FCER1G, MT-ATP6, TYMP, HLA-DPA1, ANXA2, MT-ND4, SERPINB1, MT-ND2 
+PC_ 3 
+Positive:  NPM1, PEBP1, HSP90AB1, MIF, RPL7A, RPS2, NGFRAP1, SPINK2, PRSS57, IMPDH2 
+	   HNRNPA1, EGFL7, MEST, KIAA0125, CDK6, CYTL1, SMIM24, MYC, RPL37A, MSI2 
+	   NUCB2, NPR3, HNRNPA1L2, GATA2, WBP5, CD34, MYB, DPPA4, FKBP11, RP11-620J15.3 
+Negative:  S100A9, FCN1, S100A8, LYZ, TYROBP, VCAN, CSTA, MNDA, S100A12, SERPINA1 
+	   CD14, RETN, RP11-1143G9.4, FCER1G, CYBB, FGL2, IFI30, CLEC7A, MS4A6A, LGALS1 
+	   NCF2, SLC7A7, TYMP, CD68, CD36, LGALS2, FGR, CST3, CFP, S100A11 
+PC_ 4 
+Positive:  ITM2C, PLD4, TCF4, SPIB, FAM129C, BLNK, C12orf75, MZB1, GNG7, IRF8 
+	   SOX4, IGLL1, CD24, IRF4, SERPINF1, CD74, CCDC50, JCHAIN, VPREB1, VPREB3 
+	   TCL1A, LILRA4, SCT, CD79A, GAPT, HLA-DRA, HLA-DPB1, NUSAP1, IL3RA, TNFRSF21 
+Negative:  S100A6, S100A4, FAM178B, G0S2, EPCAM, NMU, APOC1, ALDH1A1, CNRIP1, PVT1 
+	   KCNH2, FAM89A, REXO2, MYC, CD14, SERPINA1, FCN1, GRTP1, B3GALNT1, SYNGR1 
+	   BLVRA, S100A12, SMIM10, CXADR, ENG, FPR1, PLIN2, CLEC7A, TRAP1, AKR1C3 
+PC_ 5 
+Positive:  LILRA4, SERPINF1, IRF7, SCT, CLIC3, CCDC50, GZMB, UGCG, SPIB, PLD4 
+	   SMPD3, IRF4, FAM129C, RP11-117D22.2, IL3RA, JCHAIN, PTCRA, IRF8, DNASE1L3, CLEC4C 
+	   GAS6, TNFRSF21, TPM2, PTPRS, HERPUD1, DERL3, SCAMP5, C12orf75, LILRB4, LINC00996 
+Negative:  SPINK2, PRSS57, SMIM24, AVP, CRHBP, CRYGD, CD34, ANKRD28, SERPINB1, MGST1 
+	   C1QTNF4, PROM1, MSRB3, NPR3, EGFL7, CSF3R, LAPTM4B, IGFBP7, ERG, GATA2 
+	   CLEC11A, EREG, NGFRAP1, MYCT1, CLU, KIAA0125, ANGPT1, AIF1, BEX1, BAALC 
+Normalizing layer: counts
+Finding variable features for layer counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**********Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*********************************************************|
+*********************************|
+PC_ 1 
+Positive:  KIAA0101, TYMS, BIRC5, CDK1, CA2, KLF1, CENPF, SMIM1, TOP2A, MKI67 
+	   NUSAP1, UBE2T, TK1, RRM2, CCNB2, NME4, PBK, KCNH2, CCNA2, CENPU 
+	   RHAG, TPX2, GATA1, GYPA, MYL4, GFI1B, A4GALT, HMMR, CA1, UROD 
+Negative:  RPS23, GZMK, GZMH, CD27, CMC1, KLRB1, ACTG1, RPL37A, FGFBP2, CCL4 
+	   GNLY, KLRF1, HERPUD1, MS4A1, RP11-291B21.2, AREG, PRF1, FKBP11, LINC00926, HLA-DQB1 
+	   IGHD, XCL2, CD79A, GZMB, HLA-DPB1, CD74, ARHGAP24, IFNG, RP11-231C14.7, FCER2 
+PC_ 2 
+Positive:  CST3, FCN1, CSTA, LYZ, AIF1, FCER1G, LST1, FTL, TYROBP, CTSS 
+	   S100A9, RP11-1143G9.4, SERPINA1, CFD, PSAP, S100A8, MNDA, CLEC7A, NAMPT, FGL2 
+	   TYMP, VCAN, S100A11, IFI30, FTH1, CXCL8, AP1S2, PLAUR, KLF4, NPC2 
+Negative:  HBB, HBA2, ALAS2, HBA1, UBB, GYPC, HEMGN, SLC4A1, SELENBP1, EPB42 
+	   GYPB, AHSP, HBD, SNCA, GYPA, FECH, RHCE, HBM, SLC25A39, BPGM 
+	   PDZK1IP1, DMTN, TSPO2, GMPR, STRADB, RHAG, PRDX2, IFIT1B, HMBS, HBQ1 
+PC_ 3 
+Positive:  RPL37A, RPS23, RPL7A, PTMA, RPS2, HNRNPA1, RPLP0, EEF1B2, NPM1, MT-CO3 
+	   LDHB, MIF, HMGN1, PPIA, HMGB1, HSP90AB1, HSPA8, PEBP1, STMN1, ACTG1 
+	   RP11-620J15.3, GAPDH, RPS26, HSP90AA1, SNRPF, NCL, HSPE1, SNRPD1, FBL, HNRNPA1L2 
+Negative:  HBA2, HBB, HBA1, ALAS2, SNCA, SLC25A37, SLC4A1, SELENBP1, HBM, HEMGN 
+	   EPB42, TSPO2, IFIT1B, HBD, GYPB, PDZK1IP1, FECH, AHSP, BLVRB, RHCE 
+	   GYPA, BPGM, TMCC2, DMTN, GMPR, CA1, LGALS3, BNIP3L, HMBS, OSBP2 
+PC_ 4 
+Positive:  S100A4, S100A6, GAPDH, GZMH, GNLY, CMC1, CCL4, FGFBP2, LDHB, MT2A 
+	   GZMK, LINC00152, KLRB1, ACTG1, NDUFS5, HSPA8, PRF1, KLRF1, S100A11, LGALS1 
+	   SPN, GZMB, CD63, FCGR3A, MIR4435-2HG, IFNG, SPON2, CD27, TXN, GYPC 
+Negative:  CD79A, IGHD, MS4A1, CD79B, IGHM, VPREB3, BANK1, HLA-DQB1, HLA-DQA1, HLA-DQA2 
+	   HLA-DRA, CD74, TCL1A, HLA-DRB5, FCER2, LINC00926, HLA-DRB1, IGKC, MEF2C, HLA-DPA1 
+	   HLA-DPB1, ADAM28, FCRLA, FAM129C, IGLC3, RP11-231C14.7, HLA-DMA, ARHGAP24, BLK, TSPAN13 
+PC_ 5 
+Positive:  IFIT1B, PRSS57, NPR3, CYTL1, TMCC2, BPGM, MEST, DCAF12, SERPINE2, WBP5 
+	   CD34, GMPR, RP11-620J15.3, EGFL7, SNCA, LAPTM4B, TRIM58, MPP1, CNRIP1, SMIM24 
+	   GATA2, BNIP3L, NGFRAP1, RP11-354E11.2, KRT1, HBB, NPW, SPINK2, BCL2L1, SMIM10 
+Negative:  NUSAP1, GTSE1, CDK1, TOP2A, MKI67, PLK1, AURKB, DLGAP5, CENPF, BIRC5 
+	   CDKN3, AQP1, HMMR, PTMA, MT-CO3, CA3, CENPE, TPX2, KIF11, RPL37A 
+	   CCNB1, CCNA2, CDCA8, CDC20, UBE2C, NUF2, HJURP, PBK, DEPDC1, KIF23 
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+PC_ 1 
+Positive:  KIAA0101, TYMS, KCNH2, FAM178B, BIRC5, KLF1, GATA1, CENPU, STMN1, TK1 
+	   APOC1, CA2, TOP2A, RP11-620J15.3, EPCAM, ZWINT, CNRIP1, SMIM10, MYL4, CENPF 
+	   GINS2, DHFR, TUBB, GFI1B, CCNB2, MCM2, CA1, CDK1, ANK1, MBOAT2 
+Negative:  LTB, TRBC1, CCL5, CD8B, CD8A, GZMA, KLRB1, AC092580.4, CST7, NKG7 
+	   GZMK, CTSS, BIRC3, GZMH, THBS1, VCAN, FGFBP2, S100A12, CD14, KLRD1 
+	   C5AR1, TRGC2, RP11-291B21.2, RGS2, RBP7, CLEC7A, GNLY, CTB-61M7.2, FCN1, SERPINA1 
+PC_ 2 
+Positive:  RPSA, LTB, RPL5, RPS5, RPS18, RPL14, NPM1, TRBC1, RPLP0, CCL5 
+	   RPS17, EEF1B2, LDHB, GYPC, RPL4, CST7, UBB, GZMA, RPL7A, RPS23 
+	   KLRB1, NKG7, HSPA8, CD8B, HNRNPA1, CD8A, FKBP11, AC092580.4, RPS2, GZMH 
+Negative:  CST3, LYZ, FCN1, CSTA, TYROBP, FTL, LST1, FCER1G, S100A9, CTSS 
+	   NEAT1, AIF1, CFD, S100A8, SERPINA1, PSAP, PLAUR, S100A11, VCAN, GPX1 
+	   CLEC7A, SAT1, S100A12, HLA-DRA, LGALS1, CXCL8, COTL1, FTH1, NPC2, G0S2 
+PC_ 3 
+Positive:  RPS23, RPL37A, RPS2, RPS18, RPS17, PTMA, RPS24, RPL7A, RPL14, RPL5 
+	   RPS5, HNRNPA1, RPSA, RPLP0, EEF1B2, RPL4, PRSS57, NPM1, ACTG1, MT-CO3 
+	   IGLL1, SPINK2, HINT1, SMIM24, FABP5, C1QTNF4, SOX4, MIF, LDHB, IGSF10 
+Negative:  ALAS2, HBB, SLC4A1, GYPB, HBM, HEMGN, SELENBP1, HBD, HBA2, SNCA 
+	   AHSP, HBA1, GYPA, FECH, CA1, SLC25A37, MYL4, DMTN, EPB42, PDZK1IP1 
+	   RHCE, RHAG, HBQ1, CA2, STRADB, BLVRB, IFIT1B, HMBS, GMPR, SPTA1 
+PC_ 4 
+Positive:  NKG7, GNLY, CST7, FGFBP2, GZMA, CCL5, GZMH, PRF1, KLRD1, GZMB 
+	   SPON2, CCL4, KLRF1, MYOM2, HOPX, TRDC, FCGR3A, ADGRG1, TRGC2, KLRB1 
+	   CLIC3, AC092580.4, S100A6, CMC1, TRGC1, IL2RB, RHOC, C12orf75, GAPDH, MT2A 
+Negative:  CD79A, MS4A1, IGHD, LINC00926, VPREB3, IGHM, TCL1A, BANK1, TNFRSF13C, HLA-DQA1 
+	   CD79B, HLA-DQB1, LTB, HLA-DRA, FCER2, FAM129C, CD74, ADAM28, CD19, GNG7 
+	   HLA-DQA2, FCRLA, ARHGAP24, AC079767.4, HLA-DRB5, CD24, HLA-DMA, EBF1, RP11-231C14.7, KIAA0125 
+PC_ 5 
+Positive:  GZMB, NKG7, GNLY, FGFBP2, HLA-DPB1, CD79A, SPON2, PRF1, CST7, GZMH 
+	   KLRD1, GZMA, MYOM2, CD74, HLA-DQA1, HLA-DPA1, C12orf75, CCL4, KLRF1, CD79B 
+	   CLIC3, CCL5, PLD4, FAM129C, FCGR3A, SPIB, VPREB3, TRDC, IGHD, MS4A1 
+Negative:  RPS18, RPS2, RPS23, RPL37A, LDHB, RPS17, RPL14, RPL4, FAM178B, RPS24 
+	   RPL5, EPCAM, CNRIP1, LTB, KCNH2, NPM1, EEF1B2, RPS5, APOC1, SMIM10 
+	   RGCC, FTH1, RPLP0, ALDH1A1, NMU, S100A12, RPL7A, VCAN, CTA-392E5.1, TFR2 
+Normalizing layer: counts
+Finding variable features for layer counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***********PC_ 1 
+Positive:  CSTA, IFI30, FCN1, MNDA, LYZ, CST3, S100A8, LST1, S100A9, CTSS 
+	   AIF1, CD68, VCAN, CLEC7A, S100A12, FGL2, CLEC12A, RP11-1143G9.4, SPI1, TYROBP 
+	   SERPINA1, FTL, TYMP, CFD, MS4A6A, GRN, AP1S2, NAMPT, COTL1, NCF2 
+Negative:  HBB, CA1, AHSP, UBB, HEMGN, GYPA, ALAS2, SNCA, GYPC, HBM 
+	   PRDX2, HBD, HBA2, CCL5, HBA1, HMBS, CA2, EPB42, KLF1, UROD 
+	   SLC25A39, IFIT1B, RHAG, SLC4A1, RFESD, ETS1, HIST1H4C, FECH, SELENBP1, LEF1 
+PC_ 2 
+Positive:  NKG7, CCL5, GZMA, CTSW, CST7, GNLY, JUN, KLRB1, KLRD1, PRF1 
+	   DUSP2, HOPX, GZMB, CCL4, KLRF1, GZMH, CMC1, TRDC, MIF, SPON2 
+	   FGFBP2, IER2, LTB, AC092580.4, CLIC3, ETS1, ACTB, TRGC1, C12orf75, FCGR3A 
+Negative:  AHSP, GYPA, CA2, BLVRB, CA1, HBB, KIAA0101, PRDX2, TUBA1B, HMGB2 
+	   HBD, FAM178B, HBA1, HMBS, KLF1, HEMGN, UROD, MYL4, GYPB, HBM 
+	   CENPF, SNCA, SMIM1, NUSAP1, KCNH2, PTTG1, TUBB, HBA2, CCNB2, CDK1 
+PC_ 3 
+Positive:  NKG7, CTSW, GZMA, GNLY, CCL5, KLRD1, CST7, PRF1, FGFBP2, GZMB 
+	   HOPX, SPON2, KLRB1, KLRF1, S100A4, CCL4, GZMH, FCGR3A, ANXA1, TRDC 
+	   CCL3, CMC1, SRGN, TYROBP, CLIC3, FCER1G, IL2RB, DUSP2, HBA2, HBB 
+Negative:  IGHM, MS4A1, LINC00926, CD79B, CD79A, HLA-DRA, CD74, HLA-DQB1, IGHD, BANK1 
+	   HLA-DMA, IGLC2, HLA-DRB5, HLA-DPB1, HLA-DPA1, FCRL2, VPREB3, LTB, BLK, HLA-DRB1 
+	   TCL1A, HLA-DQA1, IRF8, ARHGAP24, JCHAIN, FCRLA, IGHG1, MEF2C, CD24, IGHG3 
+PC_ 4 
+Positive:  HBA2, HBB, HBD, ALAS2, HBA1, SNCA, IFIT1B, TRIM58, SELENBP1, TMCC2 
+	   HBM, SLC4A1, HEMGN, BLVRB, EPB42, AHSP, GYPA, SLC25A39, FECH, BNIP3L 
+	   DCAF12, HMBS, HBE1, CA1, FAM210B, DMTN, SMIM5, SLC25A37, ARL4A, MPP1 
+Negative:  PTMA, ACTB, CTSW, NKG7, HNRNPA1, GZMB, GZMA, GNLY, CCL5, KLRD1 
+	   HMGB1, CST7, RPLP0, PRF1, ACTG1, HOPX, KLRB1, GAPDH, FGFBP2, SPON2 
+	   KLRF1, FCGR3A, HSPA8, STMN1, H2AFZ, HSP90AB1, NPM1, PPIA, CCL4, CLIC3 
+PC_ 5 
+Positive:  LDHB, NPM1, LEF1, LTB, TRAT1, CD27, RPLP0, VIM, HNRNPA1, NOSIP 
+	   PASK, LIMS1, TRABD2A, HSPA8, ACTN1, ICOS, SOCS3, ITM2A, HSPD1, PTMA 
+	   FHIT, TSHZ2, ENO1, MYC, CD4, RAN, RP11-664D1.1, HSP90AB1, LSM5, GPR183 
+Negative:  GZMB, NKG7, GNLY, FCGR3A, KLRD1, KLRF1, CST7, FGFBP2, PRF1, SPON2 
+	   GZMA, HOPX, CTSW, CCL4, HLA-DPB1, TRDC, CCL3, HLA-DPA1, CD74, IGHM 
+	   MS4A1, CLIC3, CCL5, CMC1, HLA-DRB5, HLA-DRB1, LINC00926, HLA-DQA1, GZMH, RHOC 
+*************Normalizing layer: counts
+**************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**********************************Centering and scaling data matrix
+****************|
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+Finding variable features for layer counts
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+Finding variable features for layer counts
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%Calculating feature variances of standardized and clipped values
+  |                                                                              |===================================                                   |  50%Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*************  |                                                                              |======================================================================| 100%
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*****************************************************************************0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+****|
+******|
+***************Centering and scaling data matrix
+*  |                                                                              |                                                                      |   0%*  |                                                                              |===================================                                   |  50%***  |                                                                              |======================================================================| 100%
+****************PC_ 1 
+Positive:  IFIT1B, KRT1, TMCC2, KLC3, ARG1, ARL4A, HBD, XPO7, FBXO30, RSAD2 
+	   RUNDC3A, TTC39A, RP11-1299A16.3, SLFN14, CTC-756D1.3, CCL5, TRGC2, GNLY, TRBC1, GZMA 
+	   PCSK1N, SPDYC, SFRP2, CST7, AC092580.4, KLRD1, NKG7, FGFBP2, TRGC1, CD8A 
+Negative:  KIAA0101, HMGB1, TYMS, TUBA1B, TUBB, HMGN2, H2AFZ, HMGA1, CENPU, PTMA 
+	   HMGB2, BIRC5, RAN, RANBP1, PCNA, DHFR, STMN1, DUT, TMEM14C, TOP2A 
+	   HMGN5, HSP90AA1, HIST1H4C, PRDX3, ZWINT, ATPIF1, DEK, HMGB3, H2AFY, SMC4 
+PC_ 2 
+Positive:  TMSB4X, CTSS, RPL26, VIM, EEF1A1, COTL1, TYROBP, CST3, RPS4X, RPL7 
+	   LST1, AIF1, RPL9, RPS18, RPL3, RPS2, RPL10A, CD74, RPS23, HLA-DRB1 
+	   CSTA, RPS24, FCER1G, FCN1, S100A11, LYZ, LGALS1, RPL12, HLA-DRA, S100A4 
+Negative:  AHSP, HBD, GYPB, HEMGN, CA1, HBM, GYPA, CA2, PRDX2, BLVRB 
+	   RHAG, RHCE, UROD, H1F0, TMEM56, TFDP1, CPOX, MYL4, SMIM1, NUSAP1 
+	   CENPF, MBOAT2, MKI67, AK1, DLGAP5, TFRC, MGST3, UBAC1, UBE2T, PTTG1 
+PC_ 3 
+Positive:  RPL3, JUN, NPM1, LDHB, RPSA, CD79B, RPS3, RPS18, RPS5, RPL27A 
+	   RPS6, RPS4X, RPL10A, MIF, HNRNPA1, CD79A, HMGN1, IGHM, RPLP0, VPREB3 
+	   CCL5, RPL9, CTSW, RPS2, RPS8, RPL5, RPL7, RPS23, GZMA, IGLL1 
+Negative:  LYZ, FCN1, CSTA, AIF1, CST3, LST1, S100A9, CLEC7A, S100A8, TYROBP 
+	   MNDA, LGALS2, SERPINA1, KLF4, FCER1G, CFP, VCAN, CLEC12A, NAMPT, PLAUR 
+	   FGL2, TYMP, S100A12, CD68, CFD, CD14, CXCL8, CSF3R, LINC01272, IFI30 
+PC_ 4 
+Positive:  CD79B, VPREB3, CD24, IGHM, VPREB1, IGLL1, TCL1A, HLA-DRA, SOX4, CD9 
+	   CMTM8, IGLC5, CD79A, TCF4, FAM129C, MME, CD74, PCDH9, MZB1, QRSL1 
+	   BCL7A, ARPP21, FCRLA, BLNK, KIAA0226L, CD72, HLA-DMA, CFAP73, HLA-DRB1, IGHD 
+Negative:  FAM178B, S100A4, EPCAM, S100A6, APOC1, CTSW, CCL5, CNRIP1, NKG7, GZMA 
+	   KCNH2, CST7, GNLY, AKR1C3, SMIM10, CTA-392E5.1, TRBC1, KLRD1, KLRB1, LYAR 
+	   NMNAT3, PYCR1, CCL4, RHOBTB3, NMU, MLLT3, CMC1, SYNGR1, AC092580.4, TRGC2 
+PC_ 5 
+Positive:  NKG7, CCL5, GZMA, CST7, TMSB4X, GNLY, CTSW, CCL4, KLRD1, RPS3 
+	   RPL27A, MT-CO2, MT-ND4, RPS21, RPS6, MT-CO3, GZMB, PTMA, KLRB1, RPL3 
+	   RPL7, RPS3A, RPL14, RPS2, RPS18, TRGC2, RPS17, TRBC1, HOPX, RPL12 
+Negative:  EPCAM, APOC1, FAM178B, CNRIP1, CYTL1, SMIM10, MYB, PYCR1, REXO2, RP11-620J15.3 
+	   NECAB1, WBP5, CDK6, GCSH, ALDH1A1, IFIT1B, EPDR1, EGFL7, NPR3, KRT1 
+	   CTA-392E5.1, MEST, B3GALNT1, PRSS57, FAM89A, APOE, CXADR, SOX4, ABO, NMU 
+**Normalizing layer: counts
+*Performing log-normalization
+**0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+****************************************************|
+*******|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+PC_ 1 
+Positive:  CST3, CSTA, FCN1, SPI1, LYZ, SERPINA1, CD68, LST1, MNDA, NCF2 
+	   KLF4, S100A9, AIF1, CFD, CLEC7A, HLA-DRA, TYMP, IFI30, TMEM176B, CPVL 
+	   PILRA, CFP, LGALS2, S100A8, SLC7A7, VCAN, HLA-DRB5, MS4A6A, CYBB, PLAUR 
+Negative:  CCL5, GYPC, NPM1, EEF1B2, CD8B, KLRB1, GZMA, CST7, GZMH, TRGC2 
+	   RGS16, GNLY, NKG7, HOPX, IFIT1B, GZMK, CD8A, FGFBP2, RPS23, BPGM 
+	   KRT1, KLRD1, GTSCR1, LYAR, PIM1, AREG, PRF1, TTC39C-AS1, RPLP0, NEFL 
+PC_ 2 
+Positive:  RPS2, RPS23, RPL37A, RPS24, RPLP1, MT-CO3, MT-CO2, RPL7A, MT-ND1, RPL8 
+	   PTMA, ACTB, ACTG1, VIM, MT-CO1, HNRNPA1, S100A4, EEF1B2, S100A6, SRGN 
+	   S100A10, RPLP0, FTL, NPM1, CTSS, COTL1, CRIP1, S100A11, FCN1, NEAT1 
+Negative:  GYPA, AHSP, GYPB, CA1, HEMGN, CA2, SLC4A1, HBB, HBM, ALAS2 
+	   KLF1, RHAG, BLVRB, SNCA, HMBS, HBA2, HBD, MYL4, RHCE, SLC25A37 
+	   HBA1, SELENBP1, FECH, EPB42, GATA1, ANK1, TMEM56, RFESD, SMIM1, TSPO2 
+PC_ 3 
+Positive:  RPL37A, RPS2, RPLP1, PTMA, RPS24, RPS23, RPL7A, RPLP0, MT-CO3, HNRNPA1 
+	   RPL8, MT-CO2, MT-ND1, EEF1B2, TYMS, KIAA0101, CDT1, MT-CO1, NPM1, STMN1 
+	   GAPDH, HMGB1, ACTB, RP11-620J15.3, BIRC5, PPIA, HMGA1, KCNH2, TK1, CENPU 
+Negative:  HBA2, HBB, SNCA, ALAS2, SLC25A37, HBA1, IFIT1B, SELENBP1, DCAF12, GMPR 
+	   BPGM, BNIP3L, TRIM58, TMCC2, HBD, SLC4A1, FECH, PDZK1IP1, MPP1, EPB42 
+	   NFIX, STRADB, LGALS3, DMTN, BCL2L1, AHSP, NCOA4, HBM, BLVRB, GYPB 
+PC_ 4 
+Positive:  NPM1, RPL8, RPS23, RPS2, EEF1B2, RPLP0, GPR183, VIM, RPLP1, COTL1 
+	   SOCS3, FTH1, RPL7A, SPINT2, RPL37A, NGFRAP1, HSPB1, MYC, AREG, IMPDH2 
+	   TMEM14C, AIF1, CD82, HSPD1, ANP32B, TMEM14B, HMGA1, HSP90AB1, SGK1, APP 
+Negative:  NKG7, GNLY, GZMB, CST7, CCL5, FGFBP2, GZMA, GZMH, KLRD1, PRF1 
+	   HOPX, CMC1, KLRF1, TRDC, SPON2, FCGR3A, CCL4, TYROBP, CLIC3, MT-CO1 
+	   KLRB1, ZEB2, PRSS23, FCER1G, IFNG, IGFBP7, CCL3, RHOC, KLRC2, LYAR 
+PC_ 5 
+Positive:  SOX4, CD79A, MGST1, KIAA0125, PRSS57, EGFL7, CYTL1, TCF4, SMIM24, SPINK2 
+	   IGHM, BCL11A, HLA-DRA, RNASE6, HLA-DMA, GPX1, FCER1A, ANKRD28, DCAF12, HLA-DQA1 
+	   BANK1, HLA-DMB, CD34, RP11-620J15.3, PDLIM1, ITM2C, MYB, JCHAIN, IFIT1B, GSN 
+Negative:  MS4A7, LINC01272, CDKN1C, LILRB2, TCF7L2, HES4, FTH1, CSF1R, PILRA, MAFB 
+	   LRRC25, C5AR1, LILRA5, CA2, RPL8, SERPINA1, CXCL16, SIGLEC10, GPBAR1, CA3 
+	   TPPP3, PTMA, AQP1, RHCE, NUSAP1, HCK, HMOX1, OAS1, CTSL, C1QA 
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Normalizing layer: counts
+Performing log-normalization
+Finding variable features for layer counts
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%Calculating feature variances of standardized and clipped values
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**********  |                                                                              |===================================                                   |  50%****************************************|
+  |                                                                              |======================================================================| 100%
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+PC_ 1 
+Positive:  IFIT1B, BPGM, HBA2, KRT1, TMCC2, HBA1, HBB, KLC3, TRIM58, ALAS2 
+	   ARL4A, PDZK1IP1, TSHZ2, ARG1, IL32, CD14, S100A12, LY96, VCAN, CLEC7A 
+	   CTSS, S100A11, SERPINA1, MNDA, FPR1, CSTA, NCF2, RBP7, THEM5, IGSF6 
+Negative:  KIAA0101, TUBA1B, TYMS, TUBB, HMGB1, CENPU, HIST1H4C, GMNN, TK1, HMGN5 
+	   PCNA, STMN1, DHFR, HMGB2, FAM178B, MCM7, KCNH2, RP11-620J15.3, CLSPN, SMC4 
+	   BIRC5, HMGA1, TMEM14C, SMC2, IDH2, MKI67, TOP2A, ATPIF1, MPC2, FEN1 
+PC_ 2 
+Positive:  HBB, HBA2, HBA1, HBD, HBM, ALAS2, SLC25A37, SLC4A1, AHSP, HEMGN 
+	   GYPB, GYPA, CA1, FECH, EPB42, SELENBP1, GYPC, CA2, HMBS, RHAG 
+	   KLF1, PRDX2, MYL4, TMEM56, RHCE, HBQ1, BPGM, TSPO2, RHD, TRIM58 
+Negative:  CTSS, AIF1, MNDA, HLA-DRB1, CST3, LST1, TYROBP, TYMP, CD74, CSTA 
+	   FCN1, FCER1G, S100A11, LYZ, AP1S2, HLA-DRA, GRN, IFITM3, LGALS1, MS4A6A 
+	   SAT1, S100A6, SERPINA1, TNFSF13B, IGSF6, ANXA2, SPI1, VCAN, LINC00936, RP11-1143G9.4 
+PC_ 3 
+Positive:  BLVRB, CD36, FCN1, CSTA, LYZ, S100A9, MNDA, S100A8, SERPINA1, VCAN 
+	   CST3, MS4A6A, GYPA, CFD, S100A12, IGSF6, FGL2, CD14, SLC4A1, TYROBP 
+	   RP11-1143G9.4, GYPB, CA2, HBM, LST1, HEMGN, CLEC7A, CXCL8, CA1, AHSP 
+Negative:  NPM1, IL32, MIF, RPS5, RPLP0, HNRNPA1, EEF1B2, RPS2, HSPA8, RPS23 
+	   HSP90AB1, RPL7A, RPL4, PEBP1, RPS17, RPL37A, ACTG1, CRIP1, NGFRAP1, PTMA 
+	   FKBP11, HSPE1, CTSW, PARP1, ISG20, MYC, C1QBP, MT-CO3, NUCB2, LDHA 
+PC_ 4 
+Positive:  CD79A, JCHAIN, MZB1, C12orf75, CD79B, IGKC, VPREB3, NUSAP1, CCDC50, IGHM 
+	   MKI67, GNG7, TNFRSF13B, CD24, TCF4, UBE2C, ITM2C, CENPA, POU2AF1, MS4A1 
+	   DERL3, ISG20, SPIB, PLK1, FAM129C, BLNK, TNFRSF17, BANK1, IRF8, GZMB 
+Negative:  CNRIP1, APOC1, CYTL1, ALDH1A1, FAM178B, EPCAM, PRSS57, EGFL7, CMBL, SMIM10 
+	   KCNH2, RP11-620J15.3, CTA-392E5.1, MEST, NPR3, SYNGR1, GATA2, SLC40A1, APOE, CDK6 
+	   NECAB1, NMNAT3, REXO2, HACD1, FAM89A, SERPINE2, B3GALNT1, RHOBTB3, TSC22D1, IGSF10 
+PC_ 5 
+Positive:  IL32, MT2A, S100A6, GZMA, CRIP1, CCL5, HSPA8, KLRB1, PRF1, NKG7 
+	   CST7, KLRD1, CTSW, GZMH, TRDC, PTMA, AC092580.4, GNLY, LYAR, S100A11 
+	   MT-CO3, MT-CO2, RPS2, KLRF1, TRGC2, FLNA, RPS17, FGFBP2, CCL4, CD8B 
+Negative:  TCF4, KIAA0125, ITM2C, BCL11A, C1orf186, PRSS57, SOX4, SPINK2, PLD4, SMIM24 
+	   NPR3, HLA-DRA, CD34, EGFL7, JCHAIN, MZB1, IRF8, GATA2, CD79A, IGSF10 
+	   MEF2C, CRHBP, MDK, FCER1A, CCDC50, GAPT, GNG7, CYTL1, NREP, BANK1 
+Normalizing layer: counts
+Calculating feature variances of standardized and clipped values
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%****  |                                                                              |===================================                                   |  50%***  |                                                                              |======================================================================| 100%
+*******Finding variable features for layer counts
+*Calculating feature variances of standardized and clipped values
+****0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***************************************************|
+***PC_ 1 
+Positive:  KIAA0101, TUBB, TYMS, CENPU, TUBA1B, TOP2A, TMEM14C, HMGB2, KCNH2, FAM178B 
+	   EPCAM, AKR1C3, HMGB1, HIST1H4C, HMGB3, HMGN5, PCNA, BIRC5, APOC1, CENPF 
+	   HMGA1, CKS1B, MPC2, NUSAP1, STMN1, RP11-620J15.3, UBE2C, H2AFZ, ZWINT, CENPW 
+Negative:  IFIT1B, MKRN1, DCAF12, BPGM, BNIP3L, TMCC2, HBA2, TRIM58, NCOA4, HBB 
+	   ALAS2, KRT1, HBA1, SNCA, XPO7, LINC00570, BBOF1, ARG1, ARL4A, CCL5 
+	   KLC3, GZMA, NKG7, FGFBP2, KLRD1, GZMH, RP11-20D14.6, GNLY, ADTRP, RP11-291B21.2 
+PC_ 2 
+Positive:  RPL26, RPS24, VIM, RPS23, RPS2, CST3, CSTA, MT-CO2, LST1, TYROBP 
+	   RPS18, CTSS, S100A6, RPS3A, AIF1, LYZ, MT-ND4, MNDA, MT-CO3, RPS8 
+	   FCN1, FCER1G, RPL37A, LGALS1, GAPDH, S100A4, S100A9, RPL23, RPS17, RP11-1143G9.4 
+Negative:  HBB, HBA2, HBA1, AHSP, SLC25A37, SNCA, HBD, HEMGN, ALAS2, SLC4A1 
+	   GYPB, GYPA, FECH, HBM, CA1, HMBS, CA2, PRDX2, RHAG, RHCE 
+	   BLVRB, KLF1, MYL4, BPGM, UROD, HBQ1, H1F0, CAT, TRIM58, HAGH 
+PC_ 3 
+Positive:  NPM1, RPS18, RPS5, LDHB, RPS2, CCL5, PTMA, RPS8, RPS3A, RPS23 
+	   RPLP0, RPS17, HNRNPA1, RPL37A, MIF, EEF1B2, NKG7, HSPA8, RPL26, GZMA 
+	   RPL7A, RPL8, HSP90AB1, HMGN1, HSPE1, GZMH, PEBP1, KLRD1, GNLY, FGFBP2 
+Negative:  S100A9, FCN1, CSTA, LYZ, S100A8, MNDA, VCAN, CST3, FCER1G, LST1 
+	   S100A12, TYROBP, RP11-1143G9.4, CLEC7A, MS4A6A, CXCL8, NAMPT, KLF4, PLAUR, CTSS 
+	   AIF1, CD14, BLVRB, LGALS2, CD36, FGL2, SERPINA1, GRN, TYMP, PSAP 
+PC_ 4 
+Positive:  MT-CO2, PTMA, MT-CO3, CCL5, MT-ND4, NKG7, RPS2, NUSAP1, RPL8, RPS18 
+	   GZMA, RPS3A, RPL26, RPS17, AQP1, GZMH, RPS8, GNLY, CENPF, MKI67 
+	   RPL37A, FGFBP2, RPS23, KLRD1, GZMB, CCL4, CENPE, HMGB2, CDKN3, PTTG1 
+Negative:  BNIP3L, IFIT1B, DCAF12, PRSS57, MKRN1, NCOA4, TRIM58, BPGM, ALAS2, SNCA 
+	   MYB, TMCC2, HBB, CYTL1, SPINK2, HBA1, SMIM24, HBA2, WBP5, CDK6 
+	   MEST, RP11-620J15.3, IGLL1, NPR3, EGFL7, EIF1AY, KIAA0125, SLC25A37, APOC1, NPW 
+PC_ 5 
+Positive:  MS4A1, HLA-DQA1, CD79A, BANK1, CD79B, IGHD, IGHM, CD74, HLA-DRA, HLA-DQB1 
+	   IGLC2, IGKC, IGLC3, LINC00926, HLA-DPA1, GNG7, JCHAIN, TCF4, EAF2, TNFRSF13C 
+	   HLA-DPB1, FCRLA, ARHGAP24, VPREB3, IRF8, ADAM28, HLA-DMA, TCL1A, HLA-DRB1, MZB1 
+Negative:  NKG7, CCL5, S100A4, GZMH, GZMA, GNLY, FGFBP2, S100A6, KLRD1, CCL4 
+	   FAM178B, GZMB, APOC1, EPCAM, FCGR3A, TRGC2, CNRIP1, SPON2, SYNGR1, TRDC 
+	   LYAR, LINC00152, TRGC1, KLRB1, IFNG, TYROBP, AKR1C3, KLRF1, GLRX, NMU 
+***Normalizing layer: counts
+****************Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%*Performing log-normalization
+**  |                                                                              |===================================                                   |  50%**  |                                                                              |======================================================================| 100%
+***|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+********************PC_ 1 
+Positive:  MKRN1, BPGM, IFIT1B, DCAF12, KRT1, BNIP3L, HBA2, TMCC2, BCL2L1, LINC00570 
+	   HBA1, ALAS2, SNCA, HBB, CD8B, CD8A, TNFRSF4, KLRB1, KLC3, IGKC 
+	   TRIM58, RP11-291B21.2, CCL5, ARG1, LINC00926, PHOSPHO1, GZMK, STRADB, MS4A1, AC092580.4 
+Negative:  KIAA0101, TYMS, TUBA1B, STMN1, TUBB, CENPU, TOP2A, BIRC5, HMGB1, HMGB2 
+	   H2AFZ, HMGB3, MCM7, MKI67, TK1, NUSAP1, HIST1H4C, PCNA, CDT1, CENPW 
+	   HMGA1, RRM2, RP11-620J15.3, DHFR, CKS2, SYNGR1, CENPF, ZWINT, UBE2T, CCNB2 
+PC_ 2 
+Positive:  RPS24, MT-CO2, CSTA, SRGN, TYROBP, LST1, CTSS, MT-CO3, CST3, S100A6 
+	   FCN1, FCER1G, RP11-1143G9.4, MNDA, COTL1, LGALS1, MT-ND1, GAPDH, TYMP, S100A11 
+	   SPI1, AIF1, LYZ, ACTG1, CFD, KLF4, GSTP1, FTH1, CFP, SERPINA1 
+Negative:  HBB, HBA1, HBA2, AHSP, ALAS2, SLC4A1, GYPB, HBD, HEMGN, HBM 
+	   CA1, SNCA, SLC25A37, SELENBP1, FECH, EPB42, GYPA, SLC25A39, STRADB, DMTN 
+	   FAM210B, RHCE, BPGM, HMBS, RHAG, GMPR, MYL4, KLF1, GYPC, CA2 
+PC_ 3 
+Positive:  RPL5, RPS5, NPM1, RPLP0, RPS2, RPL4, EEF1B2, RPL7A, HNRNPA1, RPL37A 
+	   RPL8, PTMA, HMGN1, HSPA8, PEBP1, MIF, HSP90AB1, RPS24, FBL, PPIA 
+	   FKBP11, CD79A, PARP1, NUCB2, HSPE1, C12orf75, SRSF2, IMPDH2, C1QBP, ITM2C 
+Negative:  BLVRB, FCN1, S100A9, CSTA, TYROBP, S100A8, CST3, LYZ, MNDA, SERPINA1 
+	   FCER1G, S100A12, TYMP, VCAN, RP11-1143G9.4, CFD, CXCL8, CLEC7A, CD14, PLAUR 
+	   LST1, CD36, FGL2, MS4A6A, CFP, HBA2, HBB, FOLR3, HBA1, CD68 
+PC_ 4 
+Positive:  VPREB3, CD79A, CD79B, CD24, TCL1A, FAM129C, HLA-DRA, CD74, SPIB, IGHM 
+	   HLA-DQB1, HLA-DPA1, VPREB1, HLA-DPB1, IGLC5, GNG7, PHACTR1, PLD4, HLA-DQA1, MS4A1 
+	   HLA-DRB1, POU2AF1, CD19, BLNK, FCRLA, MKI67, PDLIM1, HLA-DMA, CD9, PAX5 
+Negative:  CNRIP1, APOC1, EPCAM, FAM178B, ALDH1A1, KCNH2, SMIM10, CYTL1, S100A6, MAP7 
+	   CMBL, PRSS57, PYCR1, SERPINE2, AKR1C3, NPR3, CTA-392E5.1, AKR1C1, FSCN1, EPDR1 
+	   NMNAT3, PTRF, TFR2, GCAT, LXN, APOE, GATA2, HMGN5, MLLT3, REXO2 
+PC_ 5 
+Positive:  PRSS57, SPINK2, SMIM24, EGFL7, DCAF12, C1QTNF4, CD34, BPGM, BNIP3L, SOX4 
+	   YBX3, IFIT1B, CYTL1, SNCA, NPW, NPR3, GMPR, NCOA4, KIAA0125, MKRN1 
+	   CRYGD, PROM1, AC002454.1, STRADB, MPP1, ALAS2, MEST, MYB, MSRB3, BCL2L1 
+Negative:  S100A6, RPL8, PTMA, FTH1, RPL37A, RPS2, HSPA8, RPL4, DLGAP5, MT-CO3 
+	   AQP1, RPL7A, RPL5, CDK1, ATPIF1, MGST3, CENPE, MT-CO2, RPS5, RPLP0 
+	   KLRB1, CENPF, MT-ND1, CDKN3, TOP2A, HMMR, NUSAP1, COTL1, CCNA2, LMNA 
+******************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+PC_ 1 
+Positive:  RP11-291B21.2, IFIT1B, DCAF12, S100B, BPGM, TMCC2, KRT1, MKRN1, KLRB1, CCL5 
+	   BNIP3L, RGS1, ARL4A, ARG1, GZMK, S100A10, LINC00570, TRGC2, RP5-887A10.1, TNFRSF4 
+	   KLRG1, LINC00926, GZMA, KLC3, KLRD1, COTL1, HBA2, FKBP11, RP11-166B2.1, PRMT9 
+Negative:  KIAA0101, TYMS, TUBB, TUBA1B, SMC2, BIRC5, TOP2A, NUSAP1, CENPF, HIST1H4C 
+	   HMGB2, PCNA, CENPU, HMGB1, SMC4, STMN1, TK1, CENPW, MCM7, DHFR 
+	   ZWINT, MKI67, CCNA2, HMGB3, CKS2, HMGA1, H2AFZ, UBE2T, DUT, CCNB2 
+PC_ 2 
+Positive:  VIM, MT-CO2, FTL, MT-CO3, MT-ND4, ACTG1, RPL37A, MT-ND1, SRGN, RP11-1143G9.4 
+	   GAPDH, CSTA, MT-CO1, CTSS, AIF1, RPS2, LGALS1, S100A11, TYROBP, LST1 
+	   COTL1, CST3, PTMA, FCER1G, CFD, GSTP1, GRN, FCN1, LYZ, KLF4 
+Negative:  HBB, HBA1, HBA2, ALAS2, SLC4A1, SLC25A37, HBD, AHSP, SNCA, HEMGN 
+	   FECH, HBM, SELENBP1, GYPA, GYPB, EPB42, SLC25A39, SMIM1, RHCE, STRADB 
+	   HMBS, CA1, DMTN, TSPO2, RHAG, BPGM, GMPR, PDZK1IP1, FAM210B, PRDX2 
+PC_ 3 
+Positive:  S100A9, FCN1, S100A8, LYZ, TYROBP, CSTA, LGALS3, VCAN, S100A12, CST3 
+	   CLEC7A, FCER1G, LGALS2, RP11-1143G9.4, CD14, MNDA, S100A11, SERPINA1, LST1, CXCL8 
+	   CD36, CFD, BLVRB, IFI30, TYMP, NCF2, CYP1B1, FGL2, PSAP, CFP 
+Negative:  NPM1, EEF1B2, RPLP0, RPL7A, HNRNPA1, RPL37A, RPS2, PTMA, HMGN1, PEBP1 
+	   HSPA8, MIF, HSP90AB1, NUCB2, HNRNPA1L2, IGLL1, HSPE1, NGFRAP1, PARP1, MSI2 
+	   NOP58, NCL, MT-ND4, CD79A, RP11-291B21.2, STMN1, FKBP11, VPREB3, VPREB1, C1QBP 
+PC_ 4 
+Positive:  APOC1, FAM178B, EPCAM, CNRIP1, SMIM10, KCNH2, ALDH1A1, S100A6, CYTL1, CMBL 
+	   PYCR1, S100A4, APOE, NMNAT3, NMU, AKR1C3, TFR2, LINC01133, LXN, FSCN1 
+	   CDC42BPA, FKBP4, PVT1, CTA-392E5.1, PNMT, RHOBTB3, B3GALNT1, FHL2, SLC39A3, EPDR1 
+Negative:  VPREB3, CD79B, TCL1A, CD24, CD79A, VPREB1, IGLL1, CMTM8, HLA-DRA, IGHM 
+	   EBF1, CD74, FAM111B, FAM129C, MME, SPIB, MZB1, TCF4, HLA-DQB1, CFAP73 
+	   HLA-DPB1, CD9, AKAP12, PDLIM1, KIAA0226L, IGLC5, CD38, CD19, PAX5, HLA-DRB1 
+PC_ 5 
+Positive:  IFIT1B, BNIP3L, DCAF12, PRSS57, BPGM, TMCC2, MKRN1, EGFL7, SNCA, SMIM24 
+	   UBB, STRADB, C1QTNF4, KIAA0125, GMPR, HBB, TRIM58, ALAS2, CDK6, HBA2 
+	   HLA-DRA, HBA1, CD34, MZB1, AC002454.1, KRT1, NFIX, SOX4, SPINK2, RP11-620J15.3 
+Negative:  RPL37A, MT-ND4, S100A6, MT-CO3, PTMA, MT-CO2, CDK1, CENPF, RPL7A, NUSAP1 
+	   FTH1, MT-CO1, DLGAP5, DEPDC1, ASPM, MT-ND1, S100A10, CKAP2L, RPS2, CENPE 
+	   HSPA8, HMMR, S100A4, MKI67, CCNA2, NUF2, CDKN3, AQP1, KIF23, CCL5 
+PC_ 1 
+Positive:  IFIT1B, BPGM, TRIM58, KRT1, TMCC2, PDZK1IP1, KLC3, ARG1, ARL4A, TSPAN7 
+	   HBM, THEM5, HBD, IL32, XPO7, RBP7, RP11-20D14.6, CLEC4E, LRRN3, CYP1B1 
+	   CLEC7A, CDA, C5AR1, SMOX, LINC01550, FPR1, BCL2A1, ACSL6, S100A12, CD14 
+Negative:  KIAA0101, HMGB1, TUBA1B, TYMS, HIST1H4C, TUBB, FAM178B, CENPU, APOC1, STMN1 
+	   ATPIF1, KCNH2, SYNGR1, HMGN5, TOP2A, HMGA1, MPC2, HMGB2, RP11-620J15.3, PCNA 
+	   TMEM14C, H2AFZ, DHFR, GMNN, BIRC5, HMGN2, HSP90AA1, CENPW, EPCAM, CENPF 
+PC_ 2 
+Positive:  CTSS, SRGN, MNDA, CST3, AIF1, TYROBP, CSTA, LST1, HLA-DRB1, LYZ 
+	   FCER1G, S100A11, FCN1, TYMP, CD74, HLA-DRA, SERPINA1, RP11-1143G9.4, GRN, LGALS1 
+	   MS4A6A, IFITM3, S100A9, LINC00936, SAT1, CD14, RGS2, TNFSF13B, S100A6, S100A8 
+Negative:  AHSP, HBD, HBM, HEMGN, SLC4A1, CA1, GYPB, GYPA, EPB42, CA2 
+	   HMBS, RHAG, GYPC, PRDX2, MYL4, KLF1, HBQ1, TMEM56, RHCE, RFESD 
+	   RHD, UROD, ANK1, SLC2A1, SMIM1, SPTA1, TSPO2, BPGM, CR1L, STOM 
+PC_ 3 
+Positive:  BLVRB, CD36, GYPA, FCN1, S100A8, HBM, CSTA, S100A9, MNDA, SLC4A1 
+	   LYZ, GYPB, SERPINA1, CA2, HEMGN, HBD, CD14, VCAN, AHSP, CA1 
+	   CST3, MS4A6A, RP11-1143G9.4, HMBS, FGL2, RHAG, H1F0, CFD, TYROBP, S100A12 
+Negative:  NPM1, IL32, RPSA, RPL5, RPS5, RPS18, RPLP0, HNRNPA1, EEF1B2, RPL14 
+	   MIF, RPS8, HSPA8, RPS2, RPS23, RPS3A, PEBP1, RPS21, HSP90AB1, RPL4 
+	   RPS17, RPL23, RPL7A, HMGN1, RPL37A, MT-ND5, ACTG1, CRIP1, PTMA, FKBP11 
+PC_ 4 
+Positive:  C12orf75, VPREB3, NUSAP1, CD79A, CD79B, CD24, GZMB, JCHAIN, VPREB1, TCL1A 
+	   FAM129C, MZB1, BLNK, MKI67, SPIB, IGHM, GZMA, FAM111B, ITM2C, CD72 
+	   CD74, SMC4, NDC80, GNG7, POU2AF1, TCF4, SPC25, IGLL1, NKG7, KLRD1 
+Negative:  APOC1, FAM178B, EPCAM, CNRIP1, SMIM10, KCNH2, ALDH1A1, SYNGR1, CTA-392E5.1, LINC01133 
+	   CYTL1, B3GALNT1, REXO2, APOE, MAP7, RHOBTB3, NMU, NMNAT3, HMGN5, PYCR1 
+	   SLC40A1, TFR2, CMBL, FAM89A, RP11-620J15.3, PIR, GPT, FSCN1, FADS2, PNMT 
+PC_ 5 
+Positive:  IL32, GZMA, CCL5, S100A6, PRF1, KLRD1, NKG7, S100A10, CST7, CTSW 
+	   KLRB1, GZMH, GNLY, HSPA8, AC092580.4, CRIP1, RPL14, RPS21, KLRF1, PTMA 
+	   MT-CO3, IL2RB, TRDC, XCL2, CCL4, MT-CO2, RPSA, LYAR, RPS18, RPS3A 
+Negative:  KIAA0125, TCF4, ITM2C, SPINK2, SOX4, PRSS57, BCL11A, EGFL7, IGLL1, CYTL1 
+	   CD34, BLNK, HLA-DRA, CRHBP, GATA2, SMIM24, GNG7, JCHAIN, MEF2C, NPR3 
+	   MZB1, FAM129C, IGSF10, PLD4, AVP, CD79A, MDK, C1orf186, PCDH9, AP001171.1 
+Normalizing layer: counts
+PC_ 1 
+Positive:  TMSB4X, SOCS3, CCL5, KLRB1, CTSS, GZMA, AC092580.4, GRAP2, GZMK, HIPK1-AS1 
+	   KLRD1, FTL, NKG7, RGS1, CST7, CD83, BCL2A1, TRGC2, CCL4, S100A11 
+	   AC013264.2, GNLY, GATA3, TRDC, RBP7, S100A12, CLEC7A, KLRG1, TNFRSF13C, FGFBP2 
+Negative:  KIAA0101, CENPU, TUBB, TYMS, TUBA1B, CENPF, NUSAP1, BIRC5, TOP2A, MKI67 
+	   RRM2, KCNH2, PTTG1, CCNA2, TK1, CENPW, CA2, CDK1, STMN1, PCNA 
+	   UBE2T, CKS2, TPX2, MPC2, ZWINT, HIST1H4C, UBE2C, TUBG1, DLGAP5, IDH2 
+PC_ 2 
+Positive:  RPS24, TMSB4X, MT-CO2, ACTB, MT-CO3, MT-ND4, RPS3A, CST3, FTL, RPL37A 
+	   LYZ, VIM, LGALS1, CSTA, RPS17, GAPDH, RP11-1143G9.4, TYROBP, S100A9, LST1 
+	   FTH1, FCER1G, S100A8, S100A6, S100A4, AIF1, PTMA, HLA-DRA, FCN1, CTSS 
+Negative:  HBD, HBB, ALAS2, HBA1, SLC4A1, HEMGN, HBM, SNCA, HBA2, AHSP 
+	   SELENBP1, GYPB, SLC25A37, FECH, GYPA, SLC25A39, CA1, EPB42, HMBS, STRADB 
+	   DMTN, PDZK1IP1, TRIM58, RHCE, BPGM, FAM210B, RHAG, SMIM1, BLVRB, CA2 
+PC_ 3 
+Positive:  S100A9, S100A8, CSTA, FCN1, LYZ, TYROBP, S100A12, RP11-1143G9.4, VCAN, LST1 
+	   MNDA, CST3, FCER1G, LGALS1, CXCL8, CTSS, NAMPT, G0S2, CLEC7A, LGALS3 
+	   MS4A6A, S100A11, RETN, PLAUR, CFP, SERPINA1, GRN, CD14, LGALS2, GPX1 
+Negative:  NPM1, PTMA, RPLP0, RPS3A, RPS17, HNRNPA1, RPL37A, HMGN1, HSPA8, HSP90AB1 
+	   NUCB2, MIF, ATF7IP2, STMN1, TMSB4X, IGLL1, HSPE1, HSPB1, NGFRAP1, MT-ND4 
+	   CDK6, HMGB1, IMPDH2, FKBP11, NOP58, HMGA1, EGFL7, MYC, PRSS57, SPINK2 
+PC_ 4 
+Positive:  APOC1, CNRIP1, EPCAM, FAM178B, SMIM10, KCNH2, CTA-392E5.1, CYTL1, CMBL, MAP7 
+	   NFIA, FAM89A, ALDH1A1, S100A6, CDC42BPA, GCSH, PRSS57, AKR1C3, APOL4, APOE 
+	   RHOBTB3, PVT1, LINC01133, HMGN5, PYCR1, S100A4, TFR2, ITGA2B, LINC00152, MIR4435-2HG 
+Negative:  VPREB3, CD79B, CD24, VPREB1, CD79A, TCL1A, IGLL1, CD74, HLA-DRA, NUSAP1 
+	   HLA-DQB1, MZB1, FAM129C, MKI67, TOP2A, FAM111B, GNG7, BLNK, HLA-DPB1, JCHAIN 
+	   MS4A1, IGKC, HLA-DPA1, KIAA0226L, IGHM, TCF4, HLA-DRB1, UBE2C, EBF1, IGLC2 
+PC_ 5 
+Positive:  TMSB4X, ACTB, PTMA, S100A6, MT-CO2, RPS3A, RPS17, FTH1, MT-CO3, AQP1 
+	   DLGAP5, RPL37A, NUSAP1, MT-ND4, HMMR, CCNB1, CDC20, CA3, BIRC5, CCL5 
+	   CDKN3, NKG7, CENPE, CTSE, TUBG1, GZMA, CCNB2, NUF2, CDK1, ATPIF1 
+Negative:  PRSS57, SMIM24, EGFL7, TRIM58, KIAA0125, DCAF12, IFIT1B, SOX4, BPGM, SPINK2 
+	   TMCC2, BNIP3L, SNCA, AC002454.1, C1QTNF4, MKRN1, CD34, IGLL1, HLA-DRA, NCOA4 
+	   GMPR, BCL2L1, RP11-620J15.3, CYTL1, TCF4, STRADB, GLUL, NREP, FABP5, NFIX 
+Performing log-normalization
+Finding variable features for layer counts
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+PC_ 1 
+Positive:  CCL5, CRIP1, GZMA, KLRB1, CD27, AC092580.4, KLRD1, NKG7, TRGC2, RPS2 
+	   CMC1, MS4A1, LINC00926, IGHM, HOPX, GZMK, MT-CO2, KLRF1, GZMH, PRF1 
+	   FGFBP2, KLRC2, MIF, GNLY, TRDC, BANK1, TRGC1, CCL4, CD79A, FKBP11 
+Negative:  KIAA0101, KLF1, CA2, TOP2A, TYMS, BIRC5, CCNB2, GYPA, CENPF, NUSAP1 
+	   RHAG, TMEM56, CDK1, MKI67, DLGAP5, SMIM1, KCNH2, BLVRB, AHSP, GATA1 
+	   CA1, FAM178B, CDKN3, HBB, MBOAT2, MYL4, GYPB, CDC20, HEMGN, GFI1B 
+PC_ 2 
+Positive:  CSTA, FCN1, CST3, MNDA, LYZ, IFI30, S100A9, CTSS, RP11-1143G9.4, LST1 
+	   VCAN, AIF1, FTL, S100A12, S100A8, TYROBP, MS4A6A, FTH1, SERPINA1, FGL2 
+	   CLEC7A, CLEC12A, NAMPT, CD68, FCER1G, SPI1, CFD, TYMP, CFP, S100A11 
+Negative:  GYPC, CCL5, HBB, HEMGN, CD27, LDHB, GYPA, PRDX2, SLC4A1, GZMA 
+	   FECH, SLC25A39, ALAS2, SELENBP1, KLRD1, GYPB, TMEM56, HIST1H4C, KLF1, HBD 
+	   KLRB1, UBB, AC092580.4, NKG7, MYC, CENPF, CA1, AHSP, RHAG, DMTN 
+PC_ 3 
+Positive:  IGHM, MS4A1, CD74, CD79A, RPS2, BANK1, CD79B, HLA-DRA, LINC00926, HLA-DPB1 
+	   RPS23, HLA-DQB1, HLA-DPA1, HLA-DRB1, HLA-DMA, TCF4, IRF8, JCHAIN, HLA-DRB5, MEF2C 
+	   RPS3A, BCL11A, ADAM28, GNG7, HLA-DQA1, PTMA, IGKC, IGLC2, BLK, FCRLA 
+Negative:  HBB, HBA2, ALAS2, SLC4A1, SELENBP1, HBA1, SNCA, HEMGN, FECH, HBD 
+	   GYPB, HBM, SLC25A37, IFIT1B, DCAF12, AHSP, PDZK1IP1, BPGM, GYPA, GMPR 
+	   DMTN, HBE1, BLVRB, TRIM58, SLC25A39, TMCC2, LINC00570, RHD, EPB42, NKG7 
+PC_ 4 
+Positive:  HBB, SLC4A1, ALAS2, HBA2, IGHM, SNCA, MS4A1, SELENBP1, HBD, HEMGN 
+	   SLC25A37, HBA1, CD79A, GYPB, HBM, LINC00926, BANK1, HLA-DRA, FECH, CD79B 
+	   PDZK1IP1, IFIT1B, CD74, GYPA, DCAF12, HLA-DQB1, TRIM58, AHSP, GMPR, LINC00570 
+Negative:  ACTB, GZMA, CCL5, NKG7, GNLY, KLRD1, PTMA, S100A4, GZMB, KLRB1 
+	   HOPX, KLRF1, PRF1, TRDC, MT-CO2, CMC1, GZMH, FGFBP2, CCL4, SPON2 
+	   GAPDH, ACTG1, AC092580.4, TRGC2, FCGR3A, TRGC1, MT-CO1, MT-CO3, HNRNPA1, HSPA8 
+PC_ 5 
+Positive:  RPS3A, LDHB, RPS23, RPS2, NPM1, RPL37A, CD27, RPLP0, RPS24, MYC 
+	   HNRNPA1, RGCC, PPA1, PASK, AQP3, VIM, SLC40A1, FOS, LIMS1, HNRNPA1L2 
+	   ESD, GYPC, MLLT3, PDK1, PVT1, EBPL, AIF1, EPHB6, LSM5, PTMA 
+Negative:  NKG7, GZMB, KLRD1, GNLY, GZMA, KLRF1, CCL5, PRF1, HOPX, TRDC 
+	   GZMH, FCGR3A, FGFBP2, CMC1, CCL4, SPON2, CLIC3, KLRB1, CCL3, C12orf75 
+	   TRGC2, TRGC1, MT-CO1, KLRC2, HLA-DPB1, CD74, AC092580.4, HLA-DPA1, HLA-DRB1, UBB 
+Normalizing layer: counts
+Finding variable features for layer counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**********************************Finding variable features for layer counts
+*******Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***********************************Calculating feature variances of standardized and clipped values
+*********************|
+***|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+************************************************Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+********************|
+********************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Finding variable features for layer counts
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%Calculating feature variances of standardized and clipped values
+  |                                                                              |===================================                                   |  50%Calculating feature variances of standardized and clipped values
+Calculating feature variances of standardized and clipped values
+  |                                                                              |======================================================================| 100%
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+************************************************Centering and scaling data matrix
+**|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***************  |                                                                              |                                                                      |   0%****************************************************************************|
+*********|
+  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+  |                                                                              |======================================================================| 100%
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+PC_ 1 
+Positive:  CD52, S100A4, CD48, IL32, CD3E, CCL5, IL2RG, KLRD1, GZMA, TRBC2 
+	   IFITM1, CD3D, IFI30, HLA-DRB1, CD74, HLA-DPA1, ZFP36L1, ANXA5, GZMH, HLA-DRB5 
+	   FGR, S100A6, ISG20, TRBC1, HLA-DPB1, SERPINA1, AGTRAP, LCK, LILRA5, CYBB 
+Negative:  CTSG, KIAA0101, HIST1H4C, NPW, TYMS, TUBB, CA2, NUSAP1, CKS2, UBE2C 
+	   TUBA1C, CDT1, TOP2A, AURKB, CKS1B, MS4A3, BIRC5, RNASE3, IGLL1, CDK1 
+	   CENPF, CENPU, NEIL3, UHRF1, ZWINT, PCNA, PAICS, PRC1, PHGDH, PTTG1 
+PC_ 2 
+Positive:  IFI30, SERPINA1, FCN1, LILRA5, CYBB, S100A9, VCAN, S100A8, LILRB2, MS4A4A 
+	   NCF2, CD36, LGALS3, FCER1G, HCK, CD14, LRRC25, RAB31, TMEM176B, CLEC7A 
+	   HK3, LINC01272, TMEM176A, FGL2, LILRB4, CLEC4A, RBM47, MAFB, RNF144B, SLC7A7 
+Negative:  CD3E, IL32, CCL5, KLRD1, GZMA, CD3D, GZMH, GNLY, TRBC1, TRBC2 
+	   LCK, PRF1, CST7, ZAP70, CTSW, TRBV14, CD8A, GZMM, CCL4, CD3G 
+	   LINC00861, CD7, CD247, IL2RG, NKG7, FGFBP2, IFITM1, CD2, GZMB, KLRC1 
+PC_ 3 
+Positive:  S100A4, SERPINA1, FCER1G, LILRA5, FCN1, S100A9, NKG7, TYROBP, VCAN, S100A8 
+	   IFITM3, LILRB2, MS4A4A, FGR, S100A6, LYZ, CD36, CYBB, CD14, LST1 
+	   TMEM176B, LRRC25, NCF2, LINC01272, ID2, TNFRSF1B, AGTRAP, HCK, TMEM176A, COTL1 
+Negative:  MZB1, TNFRSF17, POU2AF1, RP11-16E12.2, IGKC, SDC1, IGHG3, FCRL5, JSRP1, GAS6 
+	   IGHG1, SPAG4, IGHG2, IGLL5, DERL3, JCHAIN, FKBP11, IGHG4, IGHGP, TXNDC5 
+	   FAM92B, IGHA1, PRDX4, SEC11C, CPNE5, IGKV1-12, IRF4, IGLC3, IGLC2, CD27 
+PC_ 4 
+Positive:  UBE2C, TOP2A, BIRC5, PTTG1, MKI67, AURKB, CDK1, CKS1B, HIST1H4C, CENPF 
+	   KIAA0101, NUSAP1, TPX2, CCNB2, CCNA2, HMMR, KIF20A, CDC20, TROAP, ASPM 
+	   CCNB1, TUBB, PLK1, CDCA8, KIFC1, RRM2, CKS2, CDKN3, CDCA3, GTSE1 
+Negative:  TYROBP, HIST1H2AC, KIAA0125, PCAT18, MAMDC2, MS4A7, LST1, MARCH1, LINC00926, CFP 
+	   TMEM176B, MS4A1, NPW, TSC22D1, TPSB2, LILRA2, TRIB1, TPSD1, AREG, LTA4H 
+	   CD68, CSF1R, ARHGAP24, CRIP2, BANK1, TPSAB1, KLF4, LINC01272, FCER2, EREG 
+PC_ 5 
+Positive:  SDC1, MZB1, TNFRSF17, FKBP11, JSRP1, SSR4, GAS6, SPAG4, IGHG4, IGHGP 
+	   XBP1, FAM92B, PRDX4, IGHG3, LGALS3, SERPINA1, LILRA5, TXNDC5, SEC11C, IGHG1 
+	   DERL3, FCER1G, FCN1, S100A11, IGHG2, SDF2L1, SLAMF7, LILRB2, LY96, PRDM1 
+Negative:  HLA-DQA1, MS4A1, HLA-DQA2, BANK1, HLA-DQB1, CD79A, HLA-DRA, HLA-DRB5, HLA-DRB1, FAM129C 
+	   FCER2, BLK, HLA-DPA1, ARHGAP24, IRF8, FCRL1, CD22, HLA-DPB1, AFF3, CD79B 
+	   LTB, IGHM, SPIB, HLA-DMB, HVCN1, CD74, CD19, FCRLA, FCMR, HLA-DMA 
+PC_ 1 
+Positive:  S100A9, FTH1, S100A8, MS4A6A, VCAN, LGALS2, FTL, FCER1G, NEAT1, FCN1 
+	   LYZ, NCF1, TMSB4X, CTSS, SERPINA1, LGALS3, ZFP36L1, S100A6, S100A11, BCL6 
+	   CST3, FCGRT, PSAP, ZFP36, CLEC7A, KLF4, RP11-1143G9.4, TYMP, IFI30, S100A12 
+Negative:  PRSS57, STMN1, SPINK2, TYMS, RPLP0, TUBB, TUBA1B, MIF, NPM1, KIAA0101 
+	   LDHB, RPSA, DUT, HNRNPA1, HMGB1, RAN, ENO1, HMGA1, RANBP1, RPS6 
+	   FABP5, PTMA, H2AFZ, EEF1B2, MCM7, GAPDH, PCNA, NCL, NUCB2, PPIA 
+PC_ 2 
+Positive:  S100A10, LYZ, RRM2, UBE2C, TYMS, TK1, H2AFZ, KIAA0101, SRGN, COTL1 
+	   MS4A6A, CRIP1, CDCA5, TOP2A, S100A6, FCER1G, BIRC5, S100A11, ZWINT, CENPM 
+	   CKS1B, MKI67, S100A9, PKMYT1, SERPINA1, CST3, VCAN, TMSB4X, MYBL2, RP11-1143G9.4 
+Negative:  KIAA0125, EEF2, CNST, CD99, CD34, SPINK2, MSI2, C1orf186, UMODL1, GUCY1A3 
+	   HOPX, AC016735.1, AL122127.25, CD36, TCF4, RPLP0, ANGPT1, JCHAIN, MT-CYB, CD69 
+	   NEGR1, TRG-AS1, EEF1B2, CD200, SPNS3, TFPI, RUNX1, CD52, SERPINB1, MAP7 
+PC_ 3 
+Positive:  AZU1, SRGN, RNASE2, CFD, CTSG, MPO, TRGC2, MGST1, CLEC11A, SERPINB1 
+	   LYZ, CLU, CSTA, HOMER3, NCOA4, PTMA, MNDA, RP11-620J15.3, RP11-1143G9.4, PRTN3 
+	   MYB, RNASE3, CAT, PRSS57, ACTN1, SOX4, PROK2, TFRC, FAM46A, GLUL 
+Negative:  CD74, HLA-DPA1, HLA-DQA1, HLA-DPB1, LSP1, HLA-DQB1, HLA-DRB1, HLA-DRB5, MEF2C, HLA-DRA 
+	   JAML, HLA-DQB2, CD52, PKIB, ALDH2, ITM2C, HLA-DMB, EVL, ITGB7, S100B 
+	   MS4A4E, MALAT1, SPINT2, CYTIP, C12orf75, AFF3, GAS6, CD36, PLD4, FTH1 
+PC_ 4 
+Positive:  ACTB, HLA-DRA, NME2, HLA-DPA1, HLA-DPB1, HLA-DQA1, GSTP1, PPIA, S100B, PKIB 
+	   PLD4, CST3, YBX1, LGALS1, RPS6, TPI1, CD74, RPS18, HLA-DRB5, RPS2 
+	   RPL27A, COTL1, NPM1, RPL4, SAMHD1, C1QBP, HLA-DQB2, RPL3, LGALS2, HLA-DRB1 
+Negative:  MALAT1, UBE2C, MKI67, AURKB, TOP2A, CDCA3, NEAT1, PLK1, GTSE1, RRM2 
+	   KIAA0125, ADGRE5, NUSAP1, KIF2C, JCHAIN, KIF20A, BIRC5, HJURP, KIFC1, HMMR 
+	   CDCA5, CDCA8, TROAP, APOBEC3B, CKAP2L, CCNA2, DLGAP5, ASPM, HIST1H4C, MT-CYB 
+PC_ 5 
+Positive:  FCN1, CD36, S100A9, S100A8, VCAN, PSAP, CTSS, GLIPR1, SERPINA1, GAPDH 
+	   NEAT1, S100A12, LINC01272, HLA-B, LDHA, CD34, FTL, CD99, MAFB, CD68 
+	   LILRA5, PRDX1, CD300E, KIAA0125, FTH1, SLC11A1, HLA-C, TNFRSF1B, STAB1, BCL6 
+Negative:  S100B, MPO, MS4A4E, BASP1, CST7, AZU1, HLA-DQB2, RGS1, COL9A2, FCER1A 
+	   PKIB, NDRG2, GAS6, CACNA2D3, SERPINF1, CCL5, SLAMF7, MKI67, CCDC50, PRTN3 
+	   HLA-DOB, PLK1, C12orf75, ELOVL5, CTSG, UBE2C, CLEC11A, PPM1J, TROAP, DHRS9 
+PC_ 1 
+Positive:  KIAA0101, TYMS, UHRF1, MYBL2, RRM2, RPS23, TK1, RPS19, RPL18A, CENPM 
+	   RPS18, RPL21, RPS6, RPS12, RPL36, RPS3, RPS15, RPL9, RPL3, RPS2 
+	   RPLP0, RPL35, DHFR, RPS13, RPS27A, PTMA, RPSA, RPS16, RPLP2, RPS14 
+Negative:  CRIP1, VIM, S100A4, NEAT1, CD74, AHNAK, EMP3, CALCRL, S100A11, S100A6 
+	   LGALS1, MALAT1, TSPAN2, TSC22D3, GUCY1A3, CD9, CAMK1D, TAGLN2, HIST2H2AA4, HLA-DRB1 
+	   SAT1, HLA-DRA, MIR155HG, MEF2C, CRIP2, MYADM, KLF6, MAMDC2, ADGRE5, PTP4A3 
+PC_ 2 
+Positive:  CD52, CD74, RPS12, RPS14, RPS3, RPS18, RPS23, RPLP0, RPL14, RPS13 
+	   RPL18A, RPS19, RPS6, RPS2, SPINK2, RPS15A, RPS27A, RPS5, RPL3, HLA-DRA 
+	   GAPDH, CRIP1, RPL36, RPSA, RPS15, EEF1B2, VIM, RPL17, RPL23A, RPL9 
+Negative:  LAT, HBQ1, LTBP1, HBA1, GP9, HBA2, HBD, GATA1, TUBB1, RBPMS2 
+	   C2orf88, C6orf25, SEPT5, TPM1, PPBP, PRKAR2B, ARHGAP6, MFSD2B, PF4, SLC9A9 
+	   ITGA2B, PTGS1, GFI1B, PDZK1IP1, DMTN, MYLK, SMIM1, SELP, SDPR, RGS18 
+PC_ 3 
+Positive:  RPS15A, RPS3, RPS12, RPS6, RPS23, RPS5, RPS27A, RPS18, RPL3, RPS14 
+	   RPS13, RPS15, RPL8, RPL17, RPL18A, RPS2, RPL36, RPLP0, RPL9, EEF1G 
+	   RPL14, RPSA, EEF1B2, RPS19, RPL23A, RPL36A, RPL4, RPL37A, HNRNPA1, RPL21 
+Negative:  RRM2, MYBL2, UHRF1, TK1, KIAA0101, CENPM, HELLS, PKMYT1, ZWINT, DERL3 
+	   TYMS, ASF1B, DHFR, BIRC5, ORC6, CDCA5, CDK1, E2F1, CCNA2, MCM10 
+	   CENPK, FOXM1, CLSPN, CDC6, NEIL3, TOP2A, POLQ, RAD54L, GINS2, RECQL4 
+PC_ 4 
+Positive:  S100A4, TAGLN2, CRIP1, S100A11, CD74, VIM, S100A6, CST3, GPX1, ACTB 
+	   HLA-DRA, HLA-DRB1, CD52, EMP3, PIM1, HLA-DPB1, TUBA1B, CRIP2, GLIPR2, CD9 
+	   HLA-DRB5, GUCY1A3, HLA-DPA1, SOCS2, ANXA1, AHNAK, C10orf54, LY6E, TMSB4X, NPTX2 
+Negative:  CSF3R, CD38, MARCKSL1, AZU1, IGLL1, RP11-620J15.3, PRTN3, SLC40A1, SMIM24, CSTA 
+	   ACSM3, SOX4, MZB1, PCAT18, SEPP1, MPO, RNASE2, CNRIP1, CXCR4, FCER1A 
+	   FKBP11, PDZD8, ELANE, HOMER3, PTPRE, CPA3, IGHA1, KRT17, MATK, ISG20 
+PC_ 5 
+Positive:  CD3E, IL32, LCK, GIMAP4, CD3D, IL7R, CD48, LINC00861, IFITM1, CCL5 
+	   CD247, ZFP36L1, ZAP70, CD7, GIMAP7, TC2N, ARL4C, TRBC2, NKG7, CD27 
+	   FCMR, GZMA, CCDC109B, IL10RA, GZMM, S1PR1, TCF7, CD2, TRBC1, GNLY 
+Negative:  SOX4, H2AFY, HIST2H2AA4, ZFP36L2, RP6-159A1.4, MIR155HG, GATA2, SLC40A1, STMN1, SOCS2 
+	   CLEC11A, RP11-620J15.3, HIST2H2AA3, MGST1, CAT, SEPP1, CYTL1, GPX1, NEAT1, VIM 
+	   IGLL1, HSP90AB1, CSF3R, RP11-354E11.2, MYADM, TUBA1A, NAP1L1, GLUL, CLU, GAPDH 
+PC_ 1 
+Positive:  S100A9, S100A8, FCN1, CST3, IFI30, FTH1, SERPINA1, CD14, NCF1, NAMPT 
+	   RGS2, S100A12, TIMP1, TNFRSF1B, C5AR1, SRGN, LILRA5, S100A10, RHOB, ZFP36L1 
+	   LINC01272, LILRB2, FCGR3A, FPR1, LGALS3, IFITM3, LRRC25, HK3, FCGR3B, SOD2 
+Negative:  STMN1, SPINK2, PRSS57, C1QTNF4, RPSA, HMGA1, EGFL7, SMIM24, CD34, RPS3 
+	   RPLP0, KIAA0125, ITM2C, HOPX, ITM2A, TYMS, RPL3, RPS6, RPL7A, NGFRAP1 
+	   PTPRCAP, RPS23, KIAA0101, EEF1B2, HNRNPA1, RPS18, TUBA1B, LDHB, RPL5, NREP 
+PC_ 2 
+Positive:  MKI67, RRM2, KIAA0101, TOP2A, BIRC5, UBE2C, HMGB2, CDK1, SRGN, CENPM 
+	   AURKB, GTSE1, TYMS, TK1, NUSAP1, CCNA2, PKMYT1, ZWINT, KIFC1, ASPM 
+	   H2AFZ, ANLN, S100A9, S100A8, PLK1, MYBL2, HJURP, HIST1H4C, TROAP, H2AFX 
+Negative:  KIAA0125, HOPX, CD34, C1QTNF4, PTPRCAP, SPINK2, IGHM, CLEC14A, TFPI, TNNT3 
+	   DNTT, SMIM24, EEF1A1, NPR3, EEF2, EGFL7, SSBP2, TNFSF4, PROM1, MZB1 
+	   STMN3, HEMGN, AC006129.2, FHL1, LRRC70, RBPMS, AL122127.25, C1orf186, TSPAN7, RAB37 
+PC_ 3 
+Positive:  CD74, HLA-DRA, HLA-DRB1, HLA-DRB5, HLA-DPA1, RPS8, HLA-DPB1, EEF1A1, CST3, RPS2 
+	   RPS18, RPS3A, RPS4X, RPS23, RPL7A, RPLP0, RPL10A, RPS12, RPS5, HLA-DQA1 
+	   RPS6, HLA-DQB1, RPS7, RPL14, YBX1, RPL3, RPS3, EEF2, RPS21, PTMA 
+Negative:  CD177, CMTM2, ALPL, S100P, FCGR3B, IFITM1, CTC-490G23.2, ZDHHC19, ADGRG3, ANXA3 
+	   MGAM, SELL, TNFAIP6, PROK2, TNFRSF10C, RGL4, NAMPT, IFITM2, LCN2, PGLYRP1 
+	   KCNJ15, MMP25, PADI4, CDA, AQP9, IL2RG, S100A12, CYP4F3, BPI, CST7 
+PC_ 4 
+Positive:  AZU1, S100A12, S100A8, F13A1, S100A9, C1orf228, GAPDH, RP11-1143G9.4, ANKRD28, ALOX5AP 
+	   RPLP0, SERPINB1, EGR1, RPS2, SRGN, MCEMP1, CYTL1, RPS8, MS4A3, RP11-160E2.6 
+	   SERPINB10, BLVRB, HMGB2, RPS3A, RPS12, RPS18, MPO, RPS6, ELANE, RPS23 
+Negative:  FCGR3A, LINC01272, CDKN1C, RHOC, TIMP1, MTSS1, LILRB1, LILRB2, ABI3, HES4 
+	   NR4A1, LILRA5, TCF7L2, SIGLEC10, FTH1, SERPINA1, CXCL16, VMO1, SLC2A6, NAAA 
+	   INSIG1, LY6E, CYTIP, NEURL1, HMOX1, IFITM2, CTSL, IFITM3, IFITM1, OAS1 
+PC_ 5 
+Positive:  IFITM3, CD34, C1QTNF4, EGFL7, KIAA0125, PROM1, CLEC14A, SPINK2, NPR3, GAPDH 
+	   SMIM24, H2AFY, SERPINB1, ERG, IFI30, TFPI, DNTT, TNNT3, HLA-DRA, SERPINA1 
+	   SSBP2, TSPAN7, BAALC, TCF4, SMAD1, HEMGN, DLK1, PRSS57, FTH1, LRRC70 
+Negative:  IL32, CD3E, LCK, GZMA, CD3D, CD247, PRF1, ZAP70, GZMM, GZMH 
+	   LINC00861, SAMD3, CCL5, CD7, KLRD1, CD2, CD8A, TRBC2, CD3G, IL2RB 
+	   SPOCK2, SKAP1, CTSW, LAT, LBH, ARL4C, FGFBP2, GZMB, ETS1, CD8B 
+PC_ 1 
+Positive:  HBA2, HBA1, HBB, ANKRD9, SLC4A1, TMCC2, ALAS2, SELENBP1, HBD, IFIT1B 
+	   SLC2A1, TRIM58, SLC25A37, CPEB4, YPEL4, DMTN, HBQ1, XPO7, TCP11L2, RP11-20D14.6 
+	   PCSK1N, EPB42, ARG1, ARL4A, AHSP, TNS1, HBM, YOD1, ANK1, FHDC1 
+Negative:  STMN1, TUBA1B, TYMS, TUBB, KIAA0101, PRSS57, HMGA1, HMGN2, FABP5, IFITM3 
+	   CD34, NASP, EGFL7, H2AFZ, PGD, CENPU, MGST2, SPINK2, HIST1H4C, EIF4EBP1 
+	   MCM2, UHRF1, GGH, KIAA0125, CDCA7, HNRNPAB, RAN, HSP90AA1, RP11-620J15.3, IGFBP7 
+PC_ 2 
+Positive:  VIM, S100A10, FCER1G, TYROBP, LYZ, SRGN, S100A9, ANXA2, MS4A6A, CRIP1 
+	   S100A6, MNDA, FCN1, SERPINA1, LGALS1, PTMA, S100A8, IFI30, CEBPD, FGR 
+	   GRN, SAMHD1, CST3, CD74, CD14, NCF2, LGALS2, CFP, LILRA5, CSTA 
+Negative:  CA1, AHSP, HBD, ALAS2, HMBS, SLC4A1, HBB, GYPA, CA2, HBA2 
+	   EPB42, HBA1, SNCA, SLC25A37, SELENBP1, RHAG, KLF1, ANK1, FECH, GATA1 
+	   SLC2A1, RHD, TAL1, TFRC, BLVRB, TRIM58, GYPB, RHCE, DMTN, MYL4 
+PC_ 3 
+Positive:  FCN1, SERPINA1, MS4A6A, S100A9, MNDA, LYZ, S100A8, CEBPD, IFI30, CD14 
+	   FCER1G, CSTA, LILRA5, BLVRB, LGALS2, CD36, FPR1, NCF2, S100A12, FGR 
+	   C5AR1, CD68, TYROBP, VCAN, LGALS3, GRN, CD300C, CLEC7A, CYBB, RNASE2 
+Negative:  HSPA8, PTMA, SPINK2, CD34, HOPX, KIAA0125, CYTL1, PRSS57, C1QTNF4, ANGPT1 
+	   EGFL7, SMIM24, RBPMS, NGFRAP1, IGHM, MMRN1, AJ006998.2, MYC, PROM1, AP001171.1 
+	   C6orf25, CDCA7, ADGRG1, KRT18, KIT, TCTEX1D1, IMPDH2, PRSS2, SLC18A2, SPON1 
+PC_ 4 
+Positive:  CD34, SPINK2, KIAA0125, CYTL1, SMIM24, RBPMS, ANGPT1, CALCRL, PRSS57, C1QTNF4 
+	   EGFL7, AP001171.1, AJ006998.2, KRT8, FLT3, MMRN1, SOX4, SERPING1, PRDX1, PRSS2 
+	   PROM1, HOXA9, CSF3R, HOPX, SLC2A5, C6orf25, KRT18, SLC18A2, GSN, TCTEX1D1 
+Negative:  S100A6, HSPA8, RRM2, BIRC5, CCNA2, CDC20, CCNB2, MKI67, CDK1, TOP2A 
+	   FAM178B, DLGAP5, NUSAP1, NMU, NCAPG, CDCA8, NCAPH, PKLR, KCNH2, GTSE1 
+	   PRC1, HJURP, TK1, AURKB, MAL, CDCA3, CDKN3, DEPDC1, KIFC1, KIF2C 
+PC_ 5 
+Positive:  NMU, FAM178B, PKLR, S100A6, GZMA, CCL5, NKG7, AKR1C3, CNRIP1, CST7 
+	   KCNH2, PRF1, KLRD1, APOC1, GZMH, GNLY, LINC01133, PLIN2, HSPA8, GFI1B 
+	   SRGN, CD8A, CCL4, RBPMS2, GZMB, ALDH1A1, LYAR, FGFBP2, FN3K, PRDX2 
+Negative:  CD79A, HLA-DQA1, MS4A1, LINC00926, FAM129C, FCER2, HLA-DQB1, FCRL1, TCL1A, VPREB3 
+	   BLNK, FCRLA, HLA-DRA, SPIB, IGHM, POU2AF1, STAG3, AURKB, MKI67, IRF8 
+	   TOP2A, HLA-DRB5, CD74, IGKC, CD24, IGLL5, IGHD, ASPM, HLA-DRB1, KIF15 
+Computing 2000 integration features
+Scaling features for provided objects
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Warning: Different features in new layer data than already exists for scale.data
+Computing within dataset neighborhoods
+Finding all pairwise anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2666 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1994 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1978 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 764 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 750 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 777 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1782 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1819 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2407 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 818 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1531 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1612 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1856 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 743 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1688 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1716 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1881 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1467 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 801 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1371 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1250 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1091 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1062 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1125 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 529 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1094 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 993 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 874 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1886 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1717 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1395 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 841 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1386 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1348 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1764 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 812 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2239 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2129 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1971 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 805 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1837 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1734 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1706 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1009 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1711 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1240 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1252 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 958 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 645 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 917 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1016 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1472 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 717 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1703 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1164 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1855 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1812 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1418 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 778 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1313 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1368 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1869 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 847 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2016 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1793 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1897 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1987 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1944 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2088 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 745 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1914 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1694 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1632 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1170 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1505 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1929 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1136 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1621 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1525 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1512 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1183 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 735 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1086 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1120 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1739 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 700 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1826 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1383 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1662 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1887 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1334 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2039 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1874 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1304 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 703 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1251 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1144 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1839 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 836 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2039 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1497 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1559 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2054 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1410 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1763 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2399 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2361 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2139 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 747 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1862 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1714 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1716 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1249 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1518 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2068 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1145 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1643 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2110 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1229 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1606 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1163 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1201 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1280 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 717 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1181 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1252 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1108 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 875 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1169 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1192 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 870 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1038 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1309 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1044 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 981 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1249 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1321 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1361 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1235 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 682 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1139 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1225 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1283 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 799 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1480 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1309 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1180 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1406 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1367 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1296 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1357 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1418 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1040 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1593 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1539 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1495 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 706 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1453 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1323 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1520 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 921 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1464 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1471 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1169 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1429 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1620 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1282 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1275 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1666 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1119 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1262 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 577 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 605 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 523 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 491 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 514 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 544 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 648 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 380 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 650 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 596 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 645 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 627 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 586 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 627 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 668 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 557 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 542 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 561 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 591 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1753 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1713 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1457 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 720 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1330 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1352 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1609 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 876 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1524 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1553 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1244 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1470 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1583 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1339 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1529 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1680 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1153 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1187 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1810 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 630 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1100 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1087 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 915 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 663 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 854 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 865 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1350 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 567 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1349 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1008 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1312 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1425 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1007 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1279 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1383 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1063 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 783 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 990 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1114 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 774 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1244 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2318 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2471 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1924 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 881 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1775 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1663 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2087 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 953 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2092 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2291 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1495 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2234 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2069 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1715 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1985 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2187 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1243 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1560 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1596 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 604 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1591 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1307 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2445 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2422 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1783 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 827 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1642 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1437 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2024 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 938 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2132 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2087 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1506 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2138 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1970 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1667 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2432 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1968 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1092 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1482 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1569 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 662 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1808 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1329 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2727 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1828 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1927 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1515 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 710 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1366 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1415 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1696 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 857 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1632 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1694 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1341 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1788 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1565 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1501 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1750 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1739 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1081 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1335 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1312 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 608 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1373 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 1116 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2056 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 2011 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 754 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 673 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 542 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 332 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 520 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 500 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 553 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 390 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 559 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 600 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 594 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 681 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 543 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 523 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 627 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 599 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 404 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 505 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 531 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 270 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 497 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 432 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 630 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 687 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 610 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 720 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 690 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 636 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 375 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 531 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 536 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 646 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 460 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 695 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 609 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 705 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 744 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 610 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 623 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 682 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 722 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 513 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 613 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 686 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 411 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 639 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 569 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 672 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 757 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 629 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 633 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 547 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 552 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 491 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 320 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 392 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 392 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 521 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 343 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 420 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 463 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 465 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 465 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 401 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 475 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 529 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 488 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 333 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 417 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 456 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 303 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 423 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 445 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 493 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 515 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 530 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 932 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 540 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 964 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 840 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
+Finding anchors
+	Found 682 anchors
+Projecting new data onto SVD
+Projecting new data onto SVD
+Finding neighborhoods
