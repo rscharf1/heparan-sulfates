@@ -43,10 +43,6 @@ prep_mat <- function(path) {
 	seurat_obj
 }
 
-genes <- c("Hs2st1", "Hs3st1", "Hs3st3b1", "Hs6st1", "Hs6st2", "Ndst3", 
-"Ndst2", "Ndst1", "Glce", "Ext2", "Extl2", "Extl1", "Extl3", 
-"Ext1", "Gpc4", "Tgfbr3", "Agrn")
-
 high <- prep_mat("inputs/GSM6260301_hs3a8_high_counts.mat")
 low <- prep_mat("inputs/GSM6260302_hs3a8_low_counts.mat")
 
@@ -83,12 +79,43 @@ pdf("outputs/qc.pdf", width = 15)
 patchwork::wrap_plots(QC_plots, ncol = 4, widths = c(0.8, 0.3, 0.8, 0.3))
 dev.off()
 
+query <- subset(query, mapping_error_QC == 'Pass')
 
+query <- predict_CellTypes(
+  query_obj = query, 
+  ref_obj = ref, 
+  initial_label = 'initial_CellType', # celltype assignments before filtering on mapping QC
+  final_label = 'predicted_CellType'  # celltype assignments with map QC failing cells assigned as NA
+) 
 
+pdf("outputs/proj_umap.pdf", width = 15)
+	DimPlot(subset(query, mapping_error_QC == 'Pass'), reduction = 'umap_projected', group.by = c('predicted_CellType'), 
+	        raster=FALSE, label=TRUE, label.size = 4)
+	DimPlot(subset(query, mapping_error_QC == 'Pass'), reduction = 'umap_projected', group.by = c('predicted_CellType_Broad'), 
+	        raster=FALSE, label=TRUE, label.size = 4)
+	DimPlot(subset(query, mapping_error_QC == 'Pass'), reduction = 'umap_projected', group.by = c('predicted_CellType_Broad'), 
+	        raster=FALSE)
+	DimPlot(subset(query, mapping_error_QC == 'Pass'), reduction = 'umap_projected', group.by = c('group'), 
+        raster=FALSE)
+dev.off()
 
+dt <- query@meta.data %>% data.table()
 
+dt[grepl("Erythroid", dt$predicted_CellType_Broad)]$group %>% table
 
+dt[grepl("MEP|Megakaryocyte", dt$predicted_CellType_Broad)]$group %>% table
 
+pdf("outputs/v.pdf", width = 15)
+VlnPlot(
+  object = query, 
+  features = toupper(enzymes[1]), 
+  group.by = "predicted_CellType_Broad", 
+  pt.size = 0
+)
+dev.off()
 
+pdf("outputs/dot.pdf", width = 12)
+	DotPlot(query, features = toupper(enzymes), group.by = "predicted_CellType_Broad") + RotatedAxis()
+dev.off()
 
 
