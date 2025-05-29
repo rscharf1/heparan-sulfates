@@ -115,8 +115,6 @@ m <- merge(promoter_peaks, hs_genes, by.x = "ENSEMBL", by.y = "ensembl_gene_id",
 
 m[hgnc_symbol %in% hs_genes$hgnc_symbol]$my_label <- "HS"
 
-
-
 d <- ggplot(m, aes(
     x = V5,
     y = distanceToTSS,

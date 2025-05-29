@@ -17,8 +17,12 @@ for file in inputs/*.bedgraph; do
         -i "inputs/${base}" \
         -c 2 -l 100 \
         -o "outputs/${base}_peaks.bed"
+
+    grep -v "^track" outputs/${base}_peaks.bed > outputs/${base}_peaks.trimmed.bed
+
+    # rm outputs/${base}_peaks.bed
     
-    echo "Finished $file → outputs/${base}_peaks.bed"
+    echo "Finished $file → outputs/${base}_peaks.trimmed.bed"
 done
 
 echo "All files processed."
