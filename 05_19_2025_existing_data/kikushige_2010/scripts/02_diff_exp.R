@@ -144,8 +144,8 @@ c <- ggplot() +
     color = "Control Type"
   ) +
   geom_text_repel(
-    data = diff[control_type != "HS Gene"],
-    aes(label = Symbol),
+    data = diff[control_type == "HS Gene"],
+    aes(x = logFC, y = neg_log10_p, label = Symbol),
     size = 3,
     max.overlaps = 10
   )
