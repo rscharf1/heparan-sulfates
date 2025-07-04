@@ -1,0 +1,1 @@
+cmd = inputs/chol_genes.txt human outputs/chol_genes/ -start -400 -end 100

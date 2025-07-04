@@ -1,0 +1,1 @@
+cmd = inputs/hs_genes.txt human outputs/hs_genes/ -start -400 -end 100
