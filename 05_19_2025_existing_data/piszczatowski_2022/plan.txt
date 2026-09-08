@@ -1,3 +1,0 @@
-scRNA seq data for HS3A8 high and low subsets 
-
-Look at how enzymes in the HS pathway change for these two groups 
