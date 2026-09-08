@@ -1,0 +1,58 @@
+detailed_site,primary_disease,primary_site,sample_type,N
+Adrenocortical Cancer,Adrenocortical Cancer,Adrenal gland,Primary Tumor,77
+Cholangiocarcinoma,Cholangiocarcinoma,Bile duct,Solid Tissue Normal,9
+Cholangiocarcinoma,Cholangiocarcinoma,Bile duct,Primary Tumor,36
+Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,Bladder,Solid Tissue Normal,19
+Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,Bladder,Primary Tumor,407
+Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,13
+Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,153
+Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,14
+Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,509
+Breast Invasive Carcinoma,Breast Invasive Carcinoma,Breast,Solid Tissue Normal,113
+Breast Invasive Carcinoma,Breast Invasive Carcinoma,Breast,Primary Tumor,1092
+Breast Invasive Carcinoma,Breast Invasive Carcinoma,Breast,Metastatic,7
+Cervical & Endocervical Cancer,Cervical & Endocervical Cancer,Cervix,Primary Tumor,304
+Colon Adenocarcinoma,Colon Adenocarcinoma,Colon,Solid Tissue Normal,41
+Colon Adenocarcinoma,Colon Adenocarcinoma,Colon,Primary Tumor,288
+Uterine Corpus Endometrioid Carcinoma,Uterine Corpus Endometrioid Carcinoma,Endometrium,Solid Tissue Normal,23
+Uterine Corpus Endometrioid Carcinoma,Uterine Corpus Endometrioid Carcinoma,Endometrium,Primary Tumor,180
+Esophageal Carcinoma,Esophageal Carcinoma,Esophagus,Solid Tissue Normal,13
+Esophageal Carcinoma,Esophageal Carcinoma,Esophagus,Primary Tumor,181
+Uveal Melanoma,Uveal Melanoma,Eye,Primary Tumor,79
+Head & Neck Squamous Cell Carcinoma,Head & Neck Squamous Cell Carcinoma,Head and Neck region,Solid Tissue Normal,44
+Head & Neck Squamous Cell Carcinoma,Head & Neck Squamous Cell Carcinoma,Head and Neck region,Primary Tumor,518
+Kidney Papillary Cell Carcinoma,Kidney Papillary Cell Carcinoma,Kidney,Solid Tissue Normal,32
+Kidney Papillary Cell Carcinoma,Kidney Papillary Cell Carcinoma,Kidney,Primary Tumor,288
+Kidney Clear Cell Carcinoma,Kidney Clear Cell Carcinoma,Kidney,Solid Tissue Normal,72
+Kidney Clear Cell Carcinoma,Kidney Clear Cell Carcinoma,Kidney,Primary Tumor,530
+Kidney Chromophobe,Kidney Chromophobe,Kidney,Solid Tissue Normal,25
+Kidney Chromophobe,Kidney Chromophobe,Kidney,Primary Tumor,66
+Mesothelioma,Mesothelioma,Lining of body cavities,Primary Tumor,87
+Liver Hepatocellular Carcinoma,Liver Hepatocellular Carcinoma,Liver,Solid Tissue Normal,50
+Liver Hepatocellular Carcinoma,Liver Hepatocellular Carcinoma,Liver,Primary Tumor,369
+Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma,Lung,Solid Tissue Normal,50
+Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma,Lung,Primary Tumor,498
+Lung Adenocarcinoma,Lung Adenocarcinoma,Lung,Solid Tissue Normal,59
+Lung Adenocarcinoma,Lung Adenocarcinoma,Lung,Primary Tumor,513
+Diffuse Large B-Cell Lymphoma,Diffuse Large B-Cell Lymphoma,Lymphatic tissue,Primary Tumor,47
+Ovarian Serous Cystadenocarcinoma,Ovarian Serous Cystadenocarcinoma,Ovary,Recurrent Tumor,8
+Ovarian Serous Cystadenocarcinoma,Ovarian Serous Cystadenocarcinoma,Ovary,Primary Tumor,419
+Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,Pancreas,Primary Tumor,178
+Pheochromocytoma & Paraganglioma,Pheochromocytoma & Paraganglioma,Paraganglia,Primary Tumor,177
+Prostate Adenocarcinoma,Prostate Adenocarcinoma,Prostate,Solid Tissue Normal,52
+Prostate Adenocarcinoma,Prostate Adenocarcinoma,Prostate,Primary Tumor,495
+Rectum Adenocarcinoma,Rectum Adenocarcinoma,Rectum,Solid Tissue Normal,10
+Rectum Adenocarcinoma,Rectum Adenocarcinoma,Rectum,Primary Tumor,92
+Skin Cutaneous Melanoma,Skin Cutaneous Melanoma,Skin,Primary Tumor,102
+Skin Cutaneous Melanoma,Skin Cutaneous Melanoma,Skin,Metastatic,366
+Sarcoma,Sarcoma,"Soft tissue,Bone",Primary Tumor,258
+Stomach Adenocarcinoma,Stomach Adenocarcinoma,Stomach,Solid Tissue Normal,36
+Stomach Adenocarcinoma,Stomach Adenocarcinoma,Stomach,Primary Tumor,414
+Testicular Germ Cell Tumor,Testicular Germ Cell Tumor,Testis,Primary Tumor,148
+Testicular Germ Cell Tumor,Testicular Germ Cell Tumor,Testis,Additional - New Primary,6
+Thymoma,Thymoma,Thymus,Primary Tumor,119
+Thyroid Carcinoma,Thyroid Carcinoma,Thyroid Gland,Solid Tissue Normal,59
+Thyroid Carcinoma,Thyroid Carcinoma,Thyroid Gland,Primary Tumor,504
+Thyroid Carcinoma,Thyroid Carcinoma,Thyroid Gland,Metastatic,8
+Uterine Carcinosarcoma,Uterine Carcinosarcoma,Uterus,Primary Tumor,57
+Acute Myeloid Leukemia,Acute Myeloid Leukemia,White blood cell,Primary Blood Derived Cancer - Peripheral Blood,173

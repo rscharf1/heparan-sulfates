@@ -1,0 +1,12 @@
+gene,strand,name,chrom,middle
+Gata2,+,-77kb,chr6,88071658
+Gata2,+,+9.5kb,chr6,88158158
+Gata2,+,-3.9kb,chr6,88144758
+Runx1,-,+23kb,chr16,92803311
+Runx1,-,+110kb,chr16,92716311
+Runx1,-,+171kb,chr16,92655311
+sfpi1,+,-14kb,chr2,90922954
+myc,+,super,chr15,62700000
+myc,+,-0.5kb,chr15,62922500
+myc,+,intron,chr15,61727500
+myc,+,-2mb,chr15,64900000

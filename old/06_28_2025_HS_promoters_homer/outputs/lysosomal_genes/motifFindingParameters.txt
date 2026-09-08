@@ -1,0 +1,1 @@
+cmd = inputs/lysosomal_genes.txt human outputs/lysosomal_genes/ -start -400 -end 100
