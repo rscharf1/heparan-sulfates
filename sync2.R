@@ -38,6 +38,24 @@ files <- files[
   !vapply(files, is_inside_symlink, logical(1))
 ]
 
+# Exclude files ignored by Git.
+is_git_ignored <- function(path) {
+  status <- suppressWarnings(
+    system2(
+      "git",
+      c("check-ignore", "-q", "--", shQuote(path)),
+      stdout = FALSE,
+      stderr = FALSE
+    )
+  )
+
+  identical(status, 0L)
+}
+
+files <- files[
+  !vapply(files, is_git_ignored, logical(1))
+]
+
 # Exclude missing files and files at or above the size limit.
 sizes <- file.info(files)$size
 files <- files[
