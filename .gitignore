@@ -50,3 +50,16 @@ rsconnect/
 
 .DS_Store
 ._*
+
+*.pdf
+*.rds
+*.tar
+*.tar.gz
+*.bed.gz
+*.mtx.gz
+*.tsv.gz
+outputs/
+intermediates/
+tmp/
+*.tmp
+Rplots.pdf
