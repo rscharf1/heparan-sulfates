@@ -1,0 +1,42 @@
+wget -c "https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_50/gencode.v50.annotation.gtf.gz"
+
+python3 make_tss_bed.py
+
+wget -c "https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.chrom.sizes"
+
+Create bed file with unique IDs 
+
+awk 'BEGIN {
+  OFS="\t"
+  print "region_id\tgene_label\tchr\tstart\tend\tstrand" > "TSS_window_metadata.tsv"
+}
+{
+  id = sprintf("TSS%06d", NR)
+  print $1, $2, $3, id, $5, $6
+  print id, $4, $1, $2, $3, $6 > "TSS_window_metadata.tsv"
+}' protein_coding_TSS_2kb_windows_hg38.bed > protein_coding_TSS_2kb_windows_unique.bed
+
+
+For all files: 
+
+module load bigWig
+
+gunzip * 
+
+for f in *.bedgraph; do
+  bedGraphToBigWig "$f" ../../../10182026/metadata/hg38.chrom.sizes "${f%.bedgraph}.bw"
+done
+
+for f in ../inputs/sam_data/AML/*.bw; do
+  sample=$(basename "$f" .bw)
+  bigWigAverageOverBed \
+    "$f" \
+    metadata/protein_coding_TSS_2kb_windows_unique.bed \
+    "AML_summaries/${sample}.tsv"
+done
+
+Next Steps
+- Plots for MOLM13 are good
+- Aggregate the cell lines and do that for all of them 
+- See where the pos/neg ctrls fall 
+- And can then correlate where EXT1 and other HS genes fall with the HS binding plots 
