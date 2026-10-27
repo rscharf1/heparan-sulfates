@@ -32,8 +32,8 @@ NDST1,Sulfation
 NDST2,Sulfation
 NDST3,Sulfation
 NDST4,Sulfation
-SULF1,HS remodeling
-SULF2,HS remodeling
+SULF1,Remodeling
+SULF2,Remodeling
 UST,Other
 XYLT1,Synthesis_1
 XYLT2,Synthesis_1
@@ -49,3 +49,28 @@ GNS,Degradation
 ARSG,Degradation
 SUMF1,Other
 CTSL,Other
+B4GALT7,Synthesis_1
+B3GALT6,Synthesis_1
+SDC1,Glycoprotein
+SDC2,Glycoprotein
+SDC3,Glycoprotein
+SDC4,Glycoprotein
+GPC1,Glycoprotein
+GPC2,Glycoprotein
+GPC3,Glycoprotein
+GPC4,Glycoprotein
+GPC5,Glycoprotein
+GPC6,Glycoprotein
+SLC35B2,Sulfation
+SLC35B3,Sulfation
+PAPSS1,Sulfation
+PAPSS2,Sulfation
+
+
+
+
+
+
+
+
+
